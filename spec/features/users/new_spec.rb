@@ -8,13 +8,13 @@ RSpec.describe 'creating a new user' do
 
     visit root_path
 
-    click_button('New User')
+    click_button('Create a New User')
     expect(current_path).to eq(register_path)
 
     fill_in 'Name', with: 'Jerry'
     fill_in 'Email', with: 'jerry@trashtv.com'
     fill_in 'Password', with: 'guiltypleasure99'
-    click_on 'Create Account'
+    click_on 'Create New User'
 
     expect(page).to have_content("Jerry's Dashboard")
   end

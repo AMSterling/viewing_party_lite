@@ -9,15 +9,15 @@ RSpec.describe 'the landing page' do
     visit root_path
 
     within "#user-#{user1.id}" do
-      expect(page).to have_link('Geraldo')
+      expect(page).to have_link("geraldo@trashtv.com's Dashboard")
     end
 
     within "#user-#{user2.id}" do
-      expect(page).to have_link('Maury')
+      expect(page).to have_link("maury@trashtv.com's Dashboard")
     end
 
     within "#user-#{user3.id}" do
-      expect(page).to have_link('Jenny')
+      expect(page).to have_link("jenny@trashtv.com's Dashboard")
     end
 
     click_link('Geraldo')
@@ -31,6 +31,6 @@ RSpec.describe 'the landing page' do
 
     visit root_path
 
-    expect(page).to have_button('New User')
+    expect(page).to have_button('Create a New User')
   end
 end

@@ -21,10 +21,16 @@ header {
   width: 30%;
 }
 
-h2 {
+h2, h3 {
   margin: auto;
   text-align: center;
   font-weight: bold;
+  width: 30%;
+}
+
+p {
+  margin: auto;
+  text-align: center;
   width: 30%;
 }
 
