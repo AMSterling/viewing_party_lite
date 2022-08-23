@@ -20,7 +20,7 @@ RSpec.describe 'the landing page' do
       expect(page).to have_link("jenny@trashtv.com's Dashboard")
     end
 
-    click_link('Geraldo')
+    click_link("geraldo@trashtv.com's Dashboard")
     expect(current_path).to eq("/users/#{user1.id}")
   end
 
