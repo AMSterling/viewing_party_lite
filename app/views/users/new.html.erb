@@ -1,3 +1,11 @@
+<% flash.each do |type, msg| %>
+  <div class='flash_red'>
+    <%= msg %>
+  </div>
+<% end %>
+
+<br>
+
 <%= form_with model: @user, method: :post, local: true do |f| %>
   <%= f.label :name %>
   <%= f.text_field :name, placeholder: 'username', required: true %><br/>
