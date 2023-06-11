@@ -12,23 +12,23 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![LinkedIn][linkedin-shield2]][linkedin-url2]
+[![LinkedIn][LinkedIn]][LinkedIn-url]
+[![LinkedIn][LinkedIn2]][LinkedIn2-url]
 
 
 
 <!-- PROJECT LOGO -->
-<br />
+<br/>
 <div align="center">
-  <a href="https://github.com/AMSterling/viewing_party_lite">
-  </a>
+
+  <a href="https://github.com/AMSterling/viewing_party_lite"></a>
 
 <h1 align="center">Viewing Party Lite</h1>
 
   <p align="center">
     Viewing Party Lite is an application in which users can explore movie options and create
     a viewing party event for themselves and other users of the application.
-    <br />
+    <!-- <br />
     <a href="https://github.com/AMSterling/viewing_party_lite"><strong>Explore the docs »</strong></a>
     <br />
     <br />
@@ -36,8 +36,9 @@
     ·
     <a href="https://github.com/AMSterling/viewing_party_lite/issues">Report Bug</a>
     ·
-    <a href="https://github.com/AMSterling/viewing_party_lite/issues">Request Feature</a>
+    <a href="https://github.com/AMSterling/viewing_party_lite/issues">Request Feature</a> -->
   </p>
+
 </div>
 
 
@@ -60,8 +61,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -99,11 +98,13 @@ _Example wireframes are found [here](https://backend.turing.edu/module3/projects
 
 [![Rails][Rails]][Rails-url] [![Ruby][Ruby]][Ruby-url] [![RSpec][RSpec]][RSpec-url] [![Atom][Atom]][Atom-url] [![Visual Studio Code][Visual Studio Code]][Visual Studio Code-url] [![Heroku][Heroku]][Heroku-url] [![GitHub Actions][GitHub Actions]][GitHub Actions-url]
   </p>
+
   <p>
 
 [![Capybara][Capybara]][Capybara-url] [![CSS][CSS]][CSS-url] [![HTML5][HTML5]][HTML5-url] [![JavaScript][JavaScript]][JavaScript-url] [![PostgreSQL][PostgreSQL]][PostgreSQL-url] [![jQuery][jQuery]][jQuery-url] [![RuboCop][RuboCop]][RuboCop-url] [![Turing][Turing]][Turing-url]
 
   </p>
+
 </div>
 
 ---
@@ -167,50 +168,17 @@ _A full list of gems that will be installed can be found in the [gemfile][gemfil
 ---
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
 Create Movie Viewing Parties with friends. Search movies from [The Movie Database](https://www.themoviedb.org), select a day, time, and invite other users.
 
+
+
 _For more examples, please refer to the [Documentation](https://backend.turing.edu/module3/projects/viewing_party_lite/)_
 
 ---
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/AMSterling/viewing_party_lite/issues) for a full list of proposed features (and known issues).
-
----
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
@@ -234,10 +202,8 @@ Don't forget to give the project a star! Thanks again!
 [issues-url]: https://github.com/AMSterling/viewing_party_lite/issues
 [license-shield]: https://img.shields.io/github/license/AMSterling/viewing_party_lite.svg?style=for-the-badge
 [license-url]: https://github.com/AMSterling/viewing_party_lite/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/sterling-316a6223a/
-[linkedin-shield2]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url2]: https://linkedin.com/in/blake-saylor
+[LinkedIn]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[LinkedIn-url]: https://linkedin.com/in/sterling-316a6223a/
 
 [Atom]: https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white
 [Atom-url]: https://github.com/atom/atom/releases/tag/v1.60.0
@@ -260,11 +226,11 @@ Don't forget to give the project a star! Thanks again!
 [Fly]: https://custom-icon-badges.demolab.com/badge/Fly-DCDCDC?style=for-the-badge&logo=fly-io
 [Fly-url]: https://fly.io/
 
-[Git Badge]: https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
+[Git]: https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
 [Git-url]: https://git-scm.com/
 
 [GitHub Badge]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-[GitHub-url]: https://github.com/<Username>/
+[GitHub-url]: https://github.com/enter_url/
 
 [GitHub Actions]: https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white
 [GitHub Actions-url]: https://github.com/features/actions
@@ -287,8 +253,8 @@ Don't forget to give the project a star! Thanks again!
 [jQuery]: https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white
 [jQuery-url]: https://github.com/rails/jquery-rails
 
-[LinkedIn Badge]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[LinkedIn-url]: https://www.linkedin.com/in/<Username>/
+[LinkedIn2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[LinkedIn2-url]: https://www.linkedin.com/in/blake-saylor/
 
 [MacOS]: https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0
 [MacOS-url]: https://www.apple.com/macos
@@ -313,6 +279,9 @@ Don't forget to give the project a star! Thanks again!
 
 [Replit]: https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white
 [Replit-url]: https://replit.com/
+
+[ror]: https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white
+[ror-url]: https://rubyonrails.org/
 
 [RSpec]: https://custom-icon-badges.demolab.com/badge/RSpec-fffcf7?style=for-the-badge&logo=rspec
 [RSpec-url]: https://rspec.info/
