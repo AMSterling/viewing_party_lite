@@ -21,11 +21,13 @@
 <br/>
 <div align="center">
 
-  <a href="https://github.com/AMSterling/viewing_party_lite"></a>
+  <h1 align="center">Viewing Party Lite</h1>
+  
+  <a href="https://github.com/AMSterling/viewing_party_lite">
+    <img src="https://media.giphy.com/media/g1nOYYV0AHY3K/giphy.gif">
+  </a>
 
-<h1 align="center">Viewing Party Lite</h1>
-
-  <p align="center">
+  <p>
     Viewing Party Lite is an application in which users can explore movie options and create
     a viewing party event for themselves and other users of the application.
     <!-- <br />
@@ -173,7 +175,13 @@ _A full list of gems that will be installed can be found in the [gemfile][gemfil
 
 Create Movie Viewing Parties with friends. Search movies from [The Movie Database](https://www.themoviedb.org), select a day, time, and invite other users.
 
-
+<div align="center">
+  
+  <a href="https://github.com/AMSterling/viewing_party_lite">
+    <img src="https://media.giphy.com/media/VxbP9tLeKzazm/giphy.gif">
+  </a>
+  
+</div>
 
 _For more examples, please refer to the [Documentation](https://backend.turing.edu/module3/projects/viewing_party_lite/)_
 
