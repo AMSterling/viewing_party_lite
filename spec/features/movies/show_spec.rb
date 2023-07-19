@@ -14,7 +14,6 @@ RSpec.describe 'Movies Show Page' do
     expect(page).to have_button 'Discover Page'
 
     click_button 'Discover Page'
-
     expect(current_path).to eq(discover_path)
   end
 
@@ -42,7 +41,7 @@ RSpec.describe 'Movies Show Page' do
     end
 
     within '#reviews-section' do
-      expect(page).to have_content('9 Review(s)')
+      expect(page).to have_content('10 Review(s)')
       expect(page).to have_content('Author: elshaarawy')
       expect(page).to have_content('very good movie 9.5/10')
     end
