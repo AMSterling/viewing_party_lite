@@ -149,7 +149,7 @@ Database:
 <!-- INSTALLATION -->
 ### Installation
 
-1. Get a free API Key at [https://www.themoviedb.org/settings/api](https://www.themoviedb.org/settings/api)
+1. Get a free API Key at [TMDB](https://www.themoviedb.org/settings/api)
 2. Clone the repo
    ```sh
    git clone https://github.com/AMSterling/viewing_party_lite.git
