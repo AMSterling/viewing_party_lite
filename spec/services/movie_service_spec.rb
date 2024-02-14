@@ -21,7 +21,7 @@ RSpec.describe MovieService, :vcr do
 
   describe '#movie_search' do
     it 'returns movies from search' do
-      movies = MovieService.movie_search('Wayne')
+      movies = MovieService.movie_search('Great')
 
       expect(movies).to be_an Array
       expect(movies.count).to eq 40
@@ -30,7 +30,7 @@ RSpec.describe MovieService, :vcr do
         expect(movie).to have_key(:id)
         expect(movie[:id]).to be_an Integer
         expect(movie).to have_key(:title)
-        expect(movie[:title].downcase).to include('wayne')
+        expect(movie[:title].downcase).to include('great')
       end
     end
   end

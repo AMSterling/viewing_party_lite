@@ -2,7 +2,7 @@
 
 <div align="right">
 
-[![Test Coverage](https://api.codeclimate.com/v1/badges/266fb64b3c18fb7aefd0/test_coverage)](https://codeclimate.com/github/AMSterling/viewing_party_lite/test_coverage)
+[![Coverage](badge.svg)](https://github.com/AMSterling/viewing_party_lite)
 [![Maintainability](https://api.codeclimate.com/v1/badges/266fb64b3c18fb7aefd0/maintainability)](https://codeclimate.com/github/AMSterling/viewing_party_lite/maintainability)
 [![Ruby on Rails CI](https://github.com/AMSterling/viewing_party_lite/actions/workflows/rubyonrails.yml/badge.svg)](https://github.com/AMSterling/viewing_party_lite/actions/workflows/rubyonrails.yml)
 
@@ -22,7 +22,7 @@
 <div align="center">
 
   <h1 align="center">Viewing Party Lite</h1>
-  
+
   <a href="https://github.com/AMSterling/viewing_party_lite">
     <img src="https://media.giphy.com/media/g1nOYYV0AHY3K/giphy.gif">
   </a>
@@ -103,7 +103,7 @@ _Example wireframes are found [here](https://backend.turing.edu/module3/projects
 
   <p>
 
-[![Capybara][Capybara]][Capybara-url] [![CSS][CSS]][CSS-url] [![HTML5][HTML5]][HTML5-url] [![JavaScript][JavaScript]][JavaScript-url] [![PostgreSQL][PostgreSQL]][PostgreSQL-url] [![jQuery][jQuery]][jQuery-url] [![RuboCop][RuboCop]][RuboCop-url] [![Turing][Turing]][Turing-url]
+[![CodeClimate][CodeClimate]][CodeClimate-url] [![CSS][CSS]][CSS-url] [![HTML5][HTML5]][HTML5-url] [![JavaScript][JavaScript]][JavaScript-url] [![PostgreSQL][PostgreSQL]][PostgreSQL-url] [![jQuery][jQuery]][jQuery-url] [![RuboCop][RuboCop]][RuboCop-url] [![Turing][Turing]][Turing-url]
 
   </p>
 
@@ -176,11 +176,11 @@ _A full list of gems that will be installed can be found in the [gemfile][gemfil
 Create Movie Viewing Parties with friends. Search movies from [The Movie Database](https://www.themoviedb.org), select a day, time, and invite other users.
 
 <div align="center">
-  
+
   <a href="https://github.com/AMSterling/viewing_party_lite">
     <img src="https://media.giphy.com/media/VxbP9tLeKzazm/giphy.gif">
   </a>
-  
+
 </div>
 
 _For more examples, please refer to the [Documentation](https://backend.turing.edu/module3/projects/viewing_party_lite/)_
@@ -225,7 +225,8 @@ _For more examples, please refer to the [Documentation](https://backend.turing.e
 [CircleCI]: https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white
 [CircleCI-url]: https://circleci.com/developer
 
-[CodeClimate]: https://a11ybadges.com/badge?style=for-the-badge&logo=codeclimate
+[Code Climate]: https://img.shields.io/badge/Code%20Climate-000?logo=codeclimate&logoColor=fff
+[CodeClimate]: https://img.shields.io/badge/Code%20Climate-000?style=for-the-badge&logo=codeclimate&logoColor=fff
 [CodeClimate-url]: https://codeclimate.com
 
 [CSS]: https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white

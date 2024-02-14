@@ -46,6 +46,7 @@ group :test do
   gem 'orderly'
   gem 'shoulda-matchers'
   gem 'simplecov' # open coverage/index.html
+  gem 'simplecov-shields-badge', require: false
   gem 'vcr'
   gem 'webmock'
 end

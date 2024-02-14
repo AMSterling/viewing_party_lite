@@ -2,7 +2,7 @@
 http_interactions:
 - request:
     method: get
-    uri: https://api.themoviedb.org/3/search/movie?api_key=<API Key>&page=1&query=Wayne
+    uri: https://api.themoviedb.org/3/search/movie?api_key=<API Key>&page=1&query=Great
     body:
       encoding: US-ASCII
       string: ''
@@ -25,162 +25,159 @@ http_interactions:
       Connection:
       - keep-alive
       Date:
-      - Tue, 11 Jul 2023 16:14:09 GMT
+      - Wed, 14 Feb 2024 01:13:57 GMT
       Server:
       - openresty
       Cache-Control:
-      - public, max-age=23526
+      - public, max-age=27112
       X-Memc:
       - HIT
       X-Memc-Key:
-      - 6a63a9ff31684742f83f4cf4b27f1110
+      - cd3f5d0545c5f24cb2202b78addc6789
       X-Memc-Age:
-      - '10284'
+      - '411'
       X-Memc-Expires:
-      - '15949'
+      - '27112'
       Etag:
-      - W/"c2283b4430198046144d60d431064086"
+      - W/"44036f78ce27c51f13efe9e9287d90bf"
       Vary:
       - Accept-Encoding
       - Origin
       X-Cache:
       - Miss from cloudfront
       Via:
-      - 1.1 ad82d8a3c91257adecf18541576c7e72.cloudfront.net (CloudFront)
+      - 1.1 5539e869b7b6ea60eddee5f69c9a0d9c.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
-      - SFO53-C1
+      - DEN52-C1
       Alt-Svc:
       - h3=":443"; ma=86400
       X-Amz-Cf-Id:
-      - lADsbFHoQVUZa8h7z83pccb_uh5gBuSy-WXw16wMxPQXO0N3z4GtwA==
+      - ro5G5qAEYjwMVMMGMqAmmZ2ld2EEkCECe6trp3N_7rLJvxS188AQnA==
     body:
       encoding: UTF-8
-      string: '{"page":1,"results":[{"adult":false,"backdrop_path":"/aNv2y7O9CiVysW2fVAFANuchYsg.jpg","genre_ids":[99],"id":535222,"original_language":"en","original_title":"Wayne","overview":"Wayne
-        tells the exhilarating story of 1987 World Motorcycle Grand Prix Champion
-        Wayne Gardner''s triumphant, improbable journey from a 5-dollar dirt bike
-        to the international summit of his sport.","popularity":1.819,"poster_path":"/asq5fP7bKhfuTynhsmUdgs0PvJy.jpg","release_date":"2018-09-06","title":"Wayne","video":false,"vote_average":6.0,"vote_count":4},{"adult":false,"backdrop_path":null,"genre_ids":[80],"id":392468,"original_language":"en","original_title":"Wayne","overview":"Shadowed
-        by a lifetime of brutal mistreatment, Wayne has a tendency to violently lash
-        out when provoked. Recently released from prison, he has taken up residence
-        in the bowels of a dilapidated theatre where he works the night shift as a
-        janitor. With the help of his do-gooder social worker, Wayne is committed
-        to controlling his temper, but when a gang of criminals push him too far,
-        he chooses instead to utilize it.","popularity":0.6,"poster_path":null,"release_date":"2009-06-03","title":"Wayne","video":false,"vote_average":7.0,"vote_count":1},{"adult":false,"backdrop_path":null,"genre_ids":[],"id":649175,"original_language":"en","original_title":"Wayne","overview":"After
-        50 years of marriage, Wayne, an octogenarian with Alzheimer''s, seeks a forbidden
-        love from his youth.","popularity":0.6,"poster_path":"/zX3blURaIze8gtAkp3Uvgr9xwry.jpg","release_date":"2015-06-21","title":"Wayne","video":false,"vote_average":0.0,"vote_count":0},{"adult":false,"backdrop_path":"/1P0vQoZYoMG1LvtHKgLl6pV2XQL.jpg","genre_ids":[99],"id":653831,"original_language":"fr","original_title":"John
-        Wayne - L''Amérique à tout prix","overview":"This is the story of a man who
-        climbed the Hollywood ladder, one rung at a time, until he reached the top
-        and became the most popular American actor of his era.","popularity":0.619,"poster_path":"/oTwOCKk8sXaJQDNy0uqS1klkBfT.jpg","release_date":"2019-12-08","title":"John
-        Wayne - America at All Costs","video":false,"vote_average":7.0,"vote_count":5},{"adult":false,"backdrop_path":"/lbYqyfG6C3VcKPfKXOenn1aXUx5.jpg","genre_ids":[35,10402],"id":8872,"original_language":"en","original_title":"Wayne''s
-        World","overview":"The adventures of two amiably aimless metal-head friends,
-        Wayne and Garth. From Wayne''s basement, the pair broadcast a talk-show called
-        \"Wayne''s World\" on local public access television. The show comes to the
-        attention of a sleazy network executive who wants to produce a big-budget
-        version of \"Wayne''s World\"—and he also wants Wayne''s girlfriend, a rock
-        singer named Cassandra. Wayne and Garth have to battle the executive not only
-        to save their show, but also Cassandra.","popularity":17.981,"poster_path":"/nhQtlLVl2z5ywu2uDnXjVqi08On.jpg","release_date":"1992-02-14","title":"Wayne''s
-        World","video":false,"vote_average":6.693,"vote_count":1976},{"adult":false,"backdrop_path":"/jI89CYhH2b0feShqNzj9whEVxTe.jpg","genre_ids":[35,10402],"id":8873,"original_language":"en","original_title":"Wayne''s
-        World 2","overview":"A message from Jim Morrison in a dream prompts cable
-        access TV stars Wayne and Garth to put on a rock concert, \"Waynestock,\"
-        with Aerosmith as headliners. But amid the preparations, Wayne frets that
-        a record producer is putting the moves on his girlfriend, Cassandra, while
-        Garth handles the advances of mega-babe Honey Hornee.","popularity":11.5,"poster_path":"/xRzMaHvSJEBdqEVrscOnfyyCj2Y.jpg","release_date":"1993-12-10","title":"Wayne''s
-        World 2","video":false,"vote_average":6.101,"vote_count":903},{"adult":false,"backdrop_path":"/675fD1LUZ9fVLBzZBwKeLhwagxG.jpg","genre_ids":[53],"id":813910,"original_language":"en","original_title":"O
-        Espelho","overview":"Fascinated by pop culture male figures, a man loses his
-        identity in the search to replicate them","popularity":0.6,"poster_path":"/5jo38ykqeeHFH8hZuTxKLfB63l.jpg","release_date":"2021-04-26","title":"I,
-        John Wayne","video":false,"vote_average":5.0,"vote_count":2},{"adult":false,"backdrop_path":"/ft6okqNxWd4M7gB2VRpLpylhqtA.jpg","genre_ids":[10402],"id":16377,"original_language":"en","original_title":"Jeff
-        Wayne''s Musical Version of The War of the Worlds: Live on Stage!","overview":"The
-        live version of Jeff Wayne''s 1978 bestselling album was brought to the stage
-        in 2006 as part of a sell-out tour of the UK. Filmed at London''s Wembley
-        Arena, and using a blend of theatre, music and visual imagery, the production
-        incorporates performers from the original recording, including Justin Hayward,
-        Chris Thompson and Wayne himself. There''s also audio and visual elements
-        featuring Richard Burton, as well as the ten-piece Black Smoke Band and the
-        48-piece Ulladubulla Strings.","popularity":2.729,"poster_path":"/5z19r3tfjNPZ3UhW3lfYwKd3khn.jpg","release_date":"2006-11-06","title":"Jeff
-        Wayne''s Musical Version of The War of the Worlds: Live on Stage!","video":true,"vote_average":6.5,"vote_count":14},{"adult":false,"backdrop_path":"/idbjrl5yNwGqXfbFkerT4brnwZQ.jpg","genre_ids":[10402],"id":241428,"original_language":"en","original_title":"Jeff
-        Wayne''s Musical Version of the War of the Worlds - The New Generation: Alive
-        on Stage!","overview":"In 1978 Jeff Wayne composed and produced one of the
-        most ground-breaking and bestselling musical works of all time. In 2006 Jeff
-        Wayne''s Musical Version of The War of The Worlds took to the stage with audiences
-        and critics hailing it as one of the most innovative combinations of music,
-        technology and live performance.  Now in 2013 The New Generation production
-        is launched . With an all-star cast including Liam Neeson, Marti Pellow, Jason
-        Donovan, Kaiser Chiefs'' Ricky Wilson, Jetblack''s Will Stapleton and Wicked''s
-        Kerry Ellis, plus stunning new 3D holography and a 3-ton 35ft Martian Fighting
-        Machine, it''s truly a musical multi-media extravaganza. Filmed Live at London''s
-        O2 Arena, Jeff Wayne''s Musical Version of The War of The Worlds is a show
-        not to be missed!","popularity":1.726,"poster_path":"/epj1q8EWrJYUOpKHaLFA32sZ02T.jpg","release_date":"2013-11-28","title":"Jeff
-        Wayne''s Musical Version of the War of the Worlds - The New Generation: Alive
-        on Stage!","video":true,"vote_average":6.9,"vote_count":9},{"adult":false,"backdrop_path":"/bFYZLgEgxPuUtxoLYqS5e94c1H1.jpg","genre_ids":[99],"id":316671,"original_language":"en","original_title":"The
-        John Wayne Story: The Early Years","overview":"Film clips, trailers and rare
-        photos combine to tell the story of John Wayne''s evolution from mild-mannered
-        USC student Marion Morrison to the ultimate Western hero of the silver screen.
-        Highlights include clips from his silent-movie debut, his first leading role,
-        and his bizarre failed attempt to become a singing cowboy. Other excerpts
-        include scenes from Flying Tigers, The Quiet Man and his breakthrough, Stagecoach.","popularity":0.9,"poster_path":"/rSKvhqS1oCctkul6rYCuL48tlxw.jpg","release_date":"1993-02-04","title":"The
-        John Wayne Story: The Early Years","video":false,"vote_average":3.5,"vote_count":2},{"adult":false,"backdrop_path":null,"genre_ids":[99],"id":616174,"original_language":"en","original_title":"John
-        Wayne Gacy: Defending a Monster","overview":"\"Sam, could you do me a favor?\"  A
-        seemingly simple request sparks the story that has now become part of America’s
-        true crime hall of fame - the journey of a young lawyer, fresh from the Public
-        Defender’s Office, whose first client in private practice turns out to be
-        the most evil serial killer in our nation''s history.","popularity":1.533,"poster_path":"/zti56ETt1Jy8YccD2KbVq86XiCe.jpg","release_date":"2019-07-25","title":"John
-        Wayne Gacy: Defending a Monster","video":false,"vote_average":7.0,"vote_count":2},{"adult":false,"backdrop_path":null,"genre_ids":[99,27],"id":780766,"original_language":"en","original_title":"The
-        John Wayne Gacy Murders: life and death in Chicago","overview":"Summaries  \"The
-        John Wayne Gacy Murders: Life and Death in Chicago\", Focuses on serial killer
-        John Wayne Gacy''s time in Chicago and includes information about Gacy''s
-        childhood, his career of crime in Waterloo, Iowa, and Gacy''s becoming a celebrity
-        in prison. Containing interviews with Chicago attorneys, news reporters, law
-        enforcement officers, and history experts, the film illustrates what the atmosphere
-        was like in Chicago when Gacy was murdering and ultimately apprehended. Gacy''s
-        time in prison as a celebrity serial killer is also explored in this groundbreaking
-        film by Chicago native filmmaker John Borowski.  —John Borowski","popularity":1.41,"poster_path":"/9Ph0W8fEb3ZGO9F8MgCVM6czTtj.jpg","release_date":"2020-08-01","title":"The
-        John Wayne Gacy Murders: life and death in Chicago","video":false,"vote_average":10.0,"vote_count":1},{"adult":false,"backdrop_path":null,"genre_ids":[99],"id":775780,"original_language":"en","original_title":"John
-        Wayne''s ''The Alamo''","overview":"Documentary about the making of the John
-        Wayne film The Alamo (1960). Included are behind-the-scenes photos and footage
-        of the actual production of the film, clips from it and interviews with members
-        of the cast, crew and local residents in Brackettville, TX, where it was filmed.","popularity":0.6,"poster_path":null,"release_date":"1992-06-06","title":"John
-        Wayne''s ''The Alamo''","video":false,"vote_average":0.0,"vote_count":0},{"adult":false,"backdrop_path":"/1WCCbeiPEgzT6c04GrbPPLtOMk5.jpg","genre_ids":[28,18,10770],"id":142912,"original_language":"en","original_title":"Assault
-        on the Wayne","overview":"The U.S. submarine Anthony Wayne is underway for
-        a top-secret mission. Onboard is a highly classified device that will give
-        the Americans a decided nuclear advantage. The entire mission and the secret
-        technology are threatened when the sub commander discovers his crew has been
-        infiltrated by enemy agents. The commander is charged with trying to protect
-        the device while ferreting out the enemy agents. Compounding matters is the
-        state of the commander''s physical and mental condition, which is being questioned
-        by his crew.","popularity":0.945,"poster_path":"/spaH90zWiGPA4eVfLo1Z3HZXYmY.jpg","release_date":"1971-01-12","title":"Assault
-        on the Wayne","video":false,"vote_average":3.0,"vote_count":2},{"adult":false,"backdrop_path":"/kJVAOnVZhmw2IZSRfqan8ZyrZlu.jpg","genre_ids":[10402],"id":1106347,"original_language":"en","original_title":"LIL
-        WAYNE LIVE @ Rolling Loud Cali 2023","overview":"LIL WAYNE Live at Rolling
-        Loud California 2023","popularity":0.8,"poster_path":"/JN4i8zERAhGD0PzJIFs7CF1FB.jpg","release_date":"2023-03-04","title":"LIL
-        WAYNE LIVE @ Rolling Loud Cali 2023","video":false,"vote_average":10.0,"vote_count":1},{"adult":false,"backdrop_path":null,"genre_ids":[35],"id":1102902,"original_language":"en","original_title":"Billy
-        Wayne Davis: Testify","overview":"Filmed at the International Church of Cannabis
-        in Denver, CO, Billy Wayne Davis'' Testify is one part stunningly personal,
-        hysterical stand-up and one part visual and vulnerable realization. It’s a
-        tale of how two trips – one to prison and one to the other side – didn’t give
-        him the answers he wanted but the ones he needed.","popularity":1.4,"poster_path":"/6sxYiSIkN4wWPG9S2v7ITFu4VJk.jpg","release_date":"2022-11-17","title":"Billy
-        Wayne Davis: Testify","video":false,"vote_average":0.0,"vote_count":0},{"adult":false,"backdrop_path":null,"genre_ids":[99],"id":625523,"original_language":"en","original_title":"Lil
-        Wayne: Bling","overview":"Releasing his first solo studio album at just the
-        age of 15, Lil Wayne has shot through the ranks of the hip-hop scene. Follow
-        the story of the man who deems himself as the heart and soul of music. This
-        is Lil Wayne.","popularity":0.6,"poster_path":"/oidEYEsnQobK7VJHTR4MEhVa5yh.jpg","release_date":"2018-11-24","title":"Lil
-        Wayne: Bling","video":false,"vote_average":0.0,"vote_count":0},{"adult":false,"backdrop_path":null,"genre_ids":[10402],"id":257754,"original_language":"en","original_title":"Lil
-        Wayne: The Best Rapper Alive","overview":"This release features a number of
-        live performances by the popular rapper Lil Wayne, as well as live interviews
-        with the man where he details how he became one of the most respected guys
-        on the scene.","popularity":0.6,"poster_path":null,"release_date":"2008-06-17","title":"Lil
-        Wayne: The Best Rapper Alive","video":false,"vote_average":8.0,"vote_count":1},{"adult":false,"backdrop_path":null,"genre_ids":[],"id":281891,"original_language":"en","original_title":"Unlicensed
-        Cemetery: The John Wayne Gacy Murders","overview":"John Wayne Gacy was accused
-        and convicted of the brutal homosexual torture slayings of 33 young men and
-        boys...but many believe his total could be much higher. This video will explore
-        the many sides of John Wayne Gacy with case facts, profile interviews and
-        re-enactments that aren''t available anywhere.","popularity":1.4,"poster_path":"/mIOAf9dkbh1vZwTM6E35QtcPZLJ.jpg","release_date":"2002-01-01","title":"Unlicensed
-        Cemetery: The John Wayne Gacy Murders","video":false,"vote_average":10.0,"vote_count":1},{"adult":false,"backdrop_path":null,"genre_ids":[35],"id":49301,"original_language":"fr","original_title":"Je
-        T''Aime John Wayne","overview":"Belmonde lives in 1990s London as an iconic
-        , cool Frenchman modelled on the new wave cinema of the 1960s. Really he is
-        English and middle class – a fact that his family won''t let him forget!","popularity":0.638,"poster_path":"/t1pTaZ0PIYg0UUu3nAbeY5fs870.jpg","release_date":"2000-11-11","title":"Je
-        T''Aime John Wayne","video":false,"vote_average":5.8,"vote_count":18}],"total_pages":6,"total_results":103}'
-  recorded_at: Tue, 11 Jul 2023 16:14:09 GMT
+      string: '{"page":1,"results":[{"adult":false,"backdrop_path":"/gOkK6Y1QazWgA9Pf9ZiT3QLxRBZ.jpg","genre_ids":[80,18,28],"id":957992,"original_language":"zh","original_title":"军火大劫案","overview":"The
+        Great Arms Robbery","popularity":21.699,"poster_path":"/ronrzgFs2FOk0R4BAZgyLaYdhua.jpg","release_date":"2022-04-09","title":"The
+        Great Arms Robbery","video":false,"vote_average":6.9,"vote_count":34},{"adult":false,"backdrop_path":null,"genre_ids":[16,36,99],"id":208561,"original_language":"en","original_title":"Great","overview":"An
+        animated film about the British engineer Isambard Kingdom Brunel, who spearheaded
+        numerous engineering marvels of the early 19th century - including the Thames
+        Tunnel, the Great Western Railway, and the Great Eastern steamship (for 40
+        years the world''s largest steamship). Various styles of animation are used
+        to depict events in his colorful life.","popularity":4.082,"poster_path":"/xn7pcWqkXjfUtDNIzWjPq6On2ZP.jpg","release_date":"1975-03-17","title":"Great","video":false,"vote_average":5.637,"vote_count":72},{"adult":false,"backdrop_path":null,"genre_ids":[18,10752,35],"id":339566,"original_language":"en","original_title":"Great","overview":"Did
+        the Nazis ever see Charlie Chaplin''s ''The Great Dictator''? Yugoslavia,
+        1942 - The young Serbian projectionist Nikola Radosevic decides to teach the
+        German oppressors a lesson they won''t forget. The beginning of a true and
+        astonishing World War II resistance story.","popularity":1.509,"poster_path":"/bpp6lLfkROmYn6VzlFgevoWD2fp.jpg","release_date":"2013-01-01","title":"Great","video":false,"vote_average":4.025,"vote_count":40},{"adult":false,"backdrop_path":"/58KBZ6EhPacJPHzhVnhwijROOkk.jpg","genre_ids":[16,12,35,10751],"id":1061855,"original_language":"en","original_title":"Richard
+        the Stork and the Mystery of the Great Jewel","overview":"Richard, a sparrow
+        adopted by a stork family, is wintering at the Great Lake in Northern Africa.
+        When he realises that he won’t be the one to lead his flock back North, Richard
+        decides to travel on his own and crosses paths with Samia and her sparrow
+        flock, who are being held captive by evil marabous under the control of greedy
+        peacock Zamano. The only chance of freedom for the sparrows is to solve a
+        riddle and find the Great Jewel, which will call upon teamwork, trust and
+        most of all- spork (sparrow + stork) skills.","popularity":150.039,"poster_path":"/i2ITl0QHxZ4S0u12NK7Ddtm463k.jpg","release_date":"2023-03-23","title":"Richard
+        the Stork and the Mystery of the Great Jewel","video":false,"vote_average":7.2,"vote_count":6},{"adult":false,"backdrop_path":"/eHKRUk1QENXXzrgKg3nLHJCQn4m.jpg","genre_ids":[16,14],"id":1071101,"original_language":"ja","original_title":"大雪海のカイナ
+        ほしのけんじゃ","overview":"Kaina returns to the icy Canopy, unsure of what he should
+        do next. He and Ririha have brought peace to Atland and Valghia through an
+        alliance. Now supplies run low, and the people need answers. Kaina, Ririha,
+        and their small party set out to cross the snow in search of the great orbital
+        spire tree. This is the first step to saving their people. Join Kaina on an
+        expedition to save mankind!","popularity":44.247,"poster_path":"/tknSJyInVeBZhaIUHlzPpqA45Ej.jpg","release_date":"2023-10-13","title":"Kaina
+        of the Great Snow Sea: Star Sage","video":false,"vote_average":8.0,"vote_count":1},{"adult":false,"backdrop_path":"/5S31uyun3UTEHKOPtILe4i7VBAX.jpg","genre_ids":[99,10402],"id":1226841,"original_language":"en","original_title":"The
+        Greatest Night in Pop","overview":"In 1985, 46 music icons, including Lionel
+        Richie, Michael Jackson, Bruce Springsteen, Cyndi Lauper, Diana Ross, and
+        Stevie Wonder, came together for the most star-studded recording session in
+        history. This is the untold story of the legendary global pop song “We Are
+        the World” — which very nearly didn’t happen.","popularity":81.45,"poster_path":"/jDz4wFujk94tQP9Sx6EMKDULvkn.jpg","release_date":"2024-01-19","title":"The
+        Greatest Night in Pop","video":false,"vote_average":7.989,"vote_count":94},{"adult":false,"backdrop_path":null,"genre_ids":[99],"id":67006,"original_language":"en","original_title":"The
+        Great Barrier Reef","overview":"Mysterious and only superficially explored
+        by generations of the native Aborigines, Australia''s Great Barrier Reef is
+        one of the world''s most extraordinary natural life systems. Twelve hundred
+        miles long and made up of coral, it is the Earth''s largest structure built
+        by living things, in some places extending 120 miles into the sea. So many
+        varieties of life call the reef home that more than a dozen species can be
+        found within any square meter of its surface. This IMAX film brilliantly captures
+        the visual splendor of this environment with splendid underwater photography
+        typical of the format. Sharks, sea turtles, anemones, and the coral itself
+        are the living subjects of the camera''s probing eye. Overall, this documentary
+        is a comprehensive look at this long-studied web of life that leaves a lasting
+        impression of its depth and beauty.","popularity":1.902,"poster_path":"/woteaQKihwadpEr7XXxyt6aAd0v.jpg","release_date":"1981-01-01","title":"Great
+        Barrier Reef","video":false,"vote_average":5.3,"vote_count":5},{"adult":false,"backdrop_path":"/rN0YhB2ElrzO9ugtBhWY4wqYbz8.jpg","genre_ids":[10751,16,12,14,35,878],"id":285812,"original_language":"ja","original_title":"映画ドラえもん
+        新・のび太の大魔境 ～ペコと5人の探検隊～","overview":"Nobita finds a stray dog and brings him
+        home, little does hi knows that the dog is actually a prince in his homeland,
+        a world appart deep in the african ''Smokers Forest'' were the dogs evolved
+        and have their own empire, so he and his friends take on a journey to take
+        back the young prince to his homeland but when they get there things have
+        changed.","popularity":25.37,"poster_path":"/xKGMXQFGca4nKcO308aZ6nWz0Gc.jpg","release_date":"2014-03-08","title":"Doraemon:
+        New Nobita''s Great Demon – Peko and the Exploration Party of Five","video":false,"vote_average":6.2,"vote_count":106},{"adult":false,"backdrop_path":"/d9IXxTrra12erdjVXoWUhuTVzTH.jpg","genre_ids":[10752,18,36],"id":31217,"original_language":"ja","original_title":"人間の條件　第１部純愛篇／第２部激怒篇","overview":"After
+        handing in a report on the treatment of Chinese colonial labor, Kaji is offered
+        the post of labor chief at a large mining operation in Manchuria, which also
+        grants him exemption from military service. He accepts, and moves to Manchuria
+        with his newly-wed wife Michiko, but when he tries to put his ideas of more
+        humane treatment into practice, he finds himself at odds with scheming officials,
+        cruel foremen, and the military police.","popularity":9.32,"poster_path":"/oWCFLELvRjNj1mbsCDOKWRcnmD2.jpg","release_date":"1959-01-15","title":"The
+        Human Condition I: No Greater Love","video":false,"vote_average":8.0,"vote_count":215},{"adult":false,"backdrop_path":"/x2pG1B1DASDtgYQyyAiTm4VVkxj.jpg","genre_ids":[36,18,28,10752],"id":96399,"original_language":"en","original_title":"For
+        Greater Glory: The True Story of Cristiada","overview":"A chronicle of the
+        Cristeros War (1926-1929), which was touched off by a rebellion against the
+        Mexican government''s attempt to secularize the country.","popularity":12.696,"poster_path":"/7jgh0ej04j98q2NFpSZLlpDazUo.jpg","release_date":"2012-06-01","title":"Outlaws
+        - For Greater Glory","video":false,"vote_average":6.7,"vote_count":142},{"adult":false,"backdrop_path":"/39XQf9sk2qyyleVOX6QdS9o8v53.jpg","genre_ids":[16,12,14,10751],"id":462677,"original_language":"ja","original_title":"映画ドラえもん
+        のび太の南極カチコチ大冒険","overview":"Doraemon and Nobita discover a mysterious golden
+        ring far beneath the ice in Antarctica, leading them to uncover an ancient,
+        ruined city.","popularity":21.811,"poster_path":"/dWxEck1aqWF7Z9OvOIzhNwl91w7.jpg","release_date":"2017-03-04","title":"Doraemon:
+        Nobita''s Great Adventure in the Antarctic Kachi Kochi","video":false,"vote_average":6.488,"vote_count":84},{"adult":false,"backdrop_path":"/oGe84ddxe2R90hFwvCDxOINE8qL.jpg","genre_ids":[10752,36,28],"id":535389,"original_language":"ko","original_title":"안시성","overview":"Kingdom
+        of Goguryeo, ancient Korea, 645. The ruthless Emperor Taizong of Tang invades
+        the country and leads his armies towards the capital, achieving one victory
+        after another, but on his way is the stronghold of Ansi, protected by General
+        Yang Man-chu, who will do everything possible to stop the invasion, even if
+        his troops are outnumbered by thousands of enemies.","popularity":20.377,"poster_path":"/gv5ByLHZfn7MUKpjJovRTr5URGg.jpg","release_date":"2018-09-19","title":"The
+        Great Battle","video":false,"vote_average":6.785,"vote_count":149},{"adult":false,"backdrop_path":"/iULrT3sYoq6fZ70L1BI6KbGBwli.jpg","genre_ids":[53,18,9648],"id":273197,"original_language":"zh","original_title":"催眠大师","overview":"The
+        famous psychologist Xu Ruining has a raising career, when he met the troublesome
+        patient Ren Xiaoyan. The meeting is not easy as feeble-looking Ren is point
+        by point against him.","popularity":10.733,"poster_path":"/hqfKwoVMe3WCtTWWv2rIW6Oe05X.jpg","release_date":"2014-04-29","title":"The
+        Great Hypnotist","video":false,"vote_average":6.52,"vote_count":75},{"adult":false,"backdrop_path":"/rck9CWGMU8uKYBJCf46modwpwJd.jpg","genre_ids":[18,35],"id":1159086,"original_language":"es","original_title":"La
+        gran seducción","overview":"When a golden opportunity arises to boost the
+        fortunes of a forgotten fishing town, its residents set out to trick their
+        way to making it happen.","popularity":14.698,"poster_path":"/4EONm3medZBNfHhost4taqrje1r.jpg","release_date":"2023-08-30","title":"The
+        Great Seduction","video":false,"vote_average":6.735,"vote_count":85},{"adult":false,"backdrop_path":null,"genre_ids":[99],"id":427719,"original_language":"en","original_title":"X-Rated
+        2: The Greatest Adult Stars of All-Time","overview":"Documentary sequel that
+        offers a close-up look into the personal lives of the legendary porn stars
+        who''ve survived the test of time and influenced popular culture. Blends rare
+        interviews with erotic clips and additional appearances by Whoopi Goldberg,
+        Steven Soderbergh and a host of adult stars, directors and trendsetters.","popularity":23.791,"poster_path":"/dW8AzndbV7gRYtmYLPSmHscugce.jpg","release_date":"2016-10-28","title":"X-Rated
+        2: The Greatest Adult Stars of All-Time","video":false,"vote_average":6.7,"vote_count":94},{"adult":false,"backdrop_path":"/rAqJt3BLfQyQxwEM7a2nxlpc2wR.jpg","genre_ids":[12],"id":43205,"original_language":"en","original_title":"Tarzan''s
+        Greatest Adventure","overview":"The greatest adventure of jungle king Tarzan.
+        Four British villains raid a settlement to obtain explosives for use in a
+        diamond mine. In doing so they nearly destroy the settlement, so Tarzan pursues
+        them to their mine.","popularity":8.49,"poster_path":"/5wD8bHOKqBRoK7Mgj8aIA4NzENa.jpg","release_date":"1959-07-08","title":"Tarzan''s
+        Greatest Adventure","video":false,"vote_average":5.244,"vote_count":41},{"adult":false,"backdrop_path":"/vJvUG1WYlXyNdvduUPz3MkAjQ4f.jpg","genre_ids":[12,16,18,36],"id":115969,"original_language":"ja","original_title":"手塚治虫のブッダ
+        -赤い砂漠よ!美しく-","overview":"Prince Siddhartha is heir to the Shakya kingdom,
+        which is constantly at war with the more powerful Kosala kingdom. His father
+        tries to raise as him as a warrior leader and to shield him from the miseries
+        of the world. Meeting the young outcast girl Migaila, Siddhartha experiences
+        love for the first time but also witnesses the suffering that afflicts humankind.
+        Meanwhile, in Kosala, Chapra rises through the military, despite his lowly
+        origins, to become a hero and general of the army. A final showdown between
+        the two kingdoms forces Siddhartha to re-evaluate the path he is following.","popularity":17.362,"poster_path":"/2hPrb9XuZSwmY6MVtWjUvczPQtG.jpg","release_date":"2011-05-28","title":"Buddha:
+        The Great Departure","video":false,"vote_average":7.4,"vote_count":64},{"adult":false,"backdrop_path":"/caGv0jxkJUP8eVFMDca6B4pTB0e.jpg","genre_ids":[18],"id":179144,"original_language":"it","original_title":"La
+        grande bellezza","overview":"Jep Gambardella has seduced his way through the
+        lavish nightlife of Rome for decades, but after his 65th birthday and a shock
+        from the past, Jep looks past the nightclubs and parties to find a timeless
+        landscape of absurd, exquisite beauty.","popularity":17.366,"poster_path":"/1cmOc3ZPkuCTOTqHEsRr3Pk81Um.jpg","release_date":"2013-05-21","title":"The
+        Great Beauty","video":false,"vote_average":7.507,"vote_count":2962},{"adult":false,"backdrop_path":"/6Aj4LfIOhG85obqGE3O0WvpQzqw.jpg","genre_ids":[12,10751,16],"id":86184,"original_language":"ja","original_title":"映画ドラえもん
+        のび太の人魚大海戦","overview":"When Nobita feels like diving in his hometown, Doraemon
+        uses a Underwater Pump Simulator to pump all the water out of Tokyo, causing
+        the entire city to go underwater. That night, Doraemon and Nobita use a Diving
+        Mask Simulator to dive underwater. Later on, lots of fish, and a shark attack
+        Doraemon and Nobita. So, Doraemon puts a stop on the Underwater Pump Simulator,
+        but there is a girl named Sophia, lying down on the bushes in his neighborhood.","popularity":18.203,"poster_path":"/lvi0MjGJvWPAAqQaxCwwMsLqBG8.jpg","release_date":"2010-03-06","title":"Doraemon:
+        Nobita''s Great Battle of the Mermaid King","video":false,"vote_average":7.0,"vote_count":58},{"adult":false,"backdrop_path":"/jmg9qYhzPZdYuNaOZr5xrQPK6cQ.jpg","genre_ids":[28,12,14],"id":311324,"original_language":"en","original_title":"The
+        Great Wall","overview":"European mercenaries searching for black powder become
+        embroiled in the defense of the Great Wall of China against a horde of monstrous
+        creatures.","popularity":54.115,"poster_path":"/p70dq1YxabemdZDm5K6Q8G10wSn.jpg","release_date":"2016-12-16","title":"The
+        Great Wall","video":false,"vote_average":6.012,"vote_count":4867}],"total_pages":184,"total_results":3675}'
+  recorded_at: Wed, 14 Feb 2024 01:13:57 GMT
 - request:
     method: get
-    uri: https://api.themoviedb.org/3/search/movie?api_key=<API Key>&page=2&query=Wayne
+    uri: https://api.themoviedb.org/3/search/movie?api_key=<API Key>&page=2&query=Great
     body:
       encoding: US-ASCII
       string: ''
@@ -203,163 +200,144 @@ http_interactions:
       Connection:
       - keep-alive
       Date:
-      - Tue, 11 Jul 2023 16:14:09 GMT
+      - Wed, 14 Feb 2024 01:13:57 GMT
       Server:
       - openresty
       Cache-Control:
-      - public, max-age=24446
+      - public, max-age=24278
       X-Memc:
       - MISS, STORE
       X-Memc-Key:
-      - 7ab3c0f5a2fcf0d26e38db8c886b3b7e
+      - 8058d18386966ec33ec4693acefeff0e
       X-Memc-Age:
       - '0'
       X-Memc-Expires:
-      - '24446'
+      - '24278'
       Etag:
-      - W/"334d1bbcd121bb5dd35362c0b65bfc21"
+      - W/"f8458b2b66c8ee80f1224e5e82026fa4"
       Vary:
       - Accept-Encoding
       - Origin
       X-Cache:
       - Miss from cloudfront
       Via:
-      - 1.1 649e92b251b584632a2d3462342d816a.cloudfront.net (CloudFront)
+      - 1.1 9427b8c01c70c4a2deb16eed5a2ced9c.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
-      - SFO53-C1
+      - DEN52-C1
       Alt-Svc:
       - h3=":443"; ma=86400
       X-Amz-Cf-Id:
-      - xD-eAw4p3YsdTp7kNEhV05TDgbXx7SfTrejkbxeuujevMnRhbImgcA==
+      - 2jkqPPNhkkhGZwqbT-9K115mwqRNHSQMxHiX3wsrOpJqwtIl-wwIzA==
     body:
       encoding: UTF-8
-      string: '{"page":2,"results":[{"adult":false,"backdrop_path":null,"genre_ids":[99],"id":284330,"original_language":"en","original_title":"The
-        John Wayne Story - The Later Years","overview":"See the legendary John Wayne
-        at his greatest in two-fisted action, interviews, rare photos, and more, in
-        this documentary covering his screen career from Big Jim McLain to his final
-        film, The Shootist. Back in the saddle with Westerns like Hondo, The Searchers,
-        Rio Bravo, McLintock!, and Chisum, he also varied his output in The High and
-        the Mighty, Blood Alley, Wings of Eagles, McQ, and Brannigan. The Duke even
-        directed himself in The Alamo and The Green Berets, and finally won a long-awaited
-        Academy Award as the one-eyed lawman in True Grit, a role he repeated in Rooster
-        Cogburn. See Wayne promoting his protégé, James Arness, in Gunsmoke; making
-        public service appearances for the Red Cross, Christmas Seals, and the American
-        Cancer Society; and receiving his Oscar.","popularity":0.914,"poster_path":"/fxtTdkhgSeF1QwdmvMiZEyy43Qg.jpg","release_date":"1993-05-15","title":"The
-        John Wayne Story - The Later Years","video":false,"vote_average":0.0,"vote_count":0},{"adult":false,"backdrop_path":null,"genre_ids":[99],"id":483869,"original_language":"de","original_title":"John
-        Wayne - Ein Leben für den Film","overview":"","popularity":0.6,"poster_path":"/wH7dZFgVd8oKB9sNToVTZDKyU30.jpg","release_date":"2000-01-01","title":"John
-        Wayne - Ein Leben für den Film","video":false,"vote_average":0.0,"vote_count":0},{"adult":false,"backdrop_path":null,"genre_ids":[],"id":1081633,"original_language":"en","original_title":"Downwinders:
-        Did the Government Kill John Wayne","overview":"Hear the tragic story of the
-        people who lived downwind from the nuclear test site in Nevada in the 50s
-        and 60s.  No one would listen to their plight until it was rumored that one
-        of the victims of the fallout was John Wayne, who was in the area shooting
-        the ill-fated film THE CONQUEROR for Howard Hughes.  We tell the story of
-        the people of the Southwest and beyond whose lives were changed forever after
-        the government decided to use them as \"human guinea pigs\" and also attempt
-        to find the answer to the question:  Did the government kill John Wayne?","popularity":0.6,"poster_path":null,"release_date":"","title":"Downwinders:
-        Did the Government Kill John Wayne","video":false,"vote_average":0.0,"vote_count":0},{"adult":false,"backdrop_path":null,"genre_ids":[],"id":838908,"original_language":"de","original_title":"The
-        Importance of Being Extraordinary: Eckhart Tolle and Wayne W. Dyer","overview":"","popularity":0.6,"poster_path":"/6Ex0MXOQt0cmTJESIucIDB8shXv.jpg","release_date":"","title":"The
-        Importance of Being Extraordinary: Eckhart Tolle and Wayne W. Dyer","video":false,"vote_average":0.0,"vote_count":0},{"adult":false,"backdrop_path":null,"genre_ids":[],"id":1056834,"original_language":"en","original_title":"Kenny
-        Wayne Shepherd Band Trouble Is 25","overview":"The five-time-Grammy-nominated
-        guitarist Kenny Wayne Shepherd announces Trouble Is 25, a top-to-bottom reinterpretation
-        of his seminal album Trouble Is, which struck the match that reignited modern
-        blues upon its release 25 years ago.","popularity":1.907,"poster_path":"/5D6LWABFtg5T61628o5sgSZzQps.jpg","release_date":"2022-11-20","title":"Kenny
-        Wayne Shepherd Band Trouble Is 25","video":false,"vote_average":0.0,"vote_count":0},{"adult":false,"backdrop_path":null,"genre_ids":[10402],"id":201071,"original_language":"en","original_title":"Fountains
-        of Wayne: No Better Place - Live in Chicago","overview":"Fountains Of Wayne
-        breeze into the Windy City with their warm, feel-good vibe, unleashing the
-        hooks and humor that have made them champions of power pop. For the band''s
-        first-ever live DVD, fans are treated to a career-defining set with punchy
-        performances of their hits including \"Stacy''s Mom,\" \"Sink To The Bottom\"
-        and \"Radiation Vibe.\"  Having perfected the sounds of summer buzz with tight
-        rhythms, carefree melodies and humor-laced lyrics, the indie pop quartet takes
-        the stage in prime form, knocking out favorite after favorite. This concert
-        was shot in a widescreen format and recorded in 5.1 Surround to provide an
-        electrifying home viewing experience. Next to actually attending a Fountains
-        show, as any fan will tell you, there''s No Better Place to see them. Bonus
-        features: all-new, never-before-seen acoustic performances of songs from their
-        2007 album, Traffic and Weather, and more.","popularity":1.128,"poster_path":null,"release_date":"2009-03-02","title":"Fountains
-        of Wayne: No Better Place - Live in Chicago","video":false,"vote_average":0.0,"vote_count":0},{"adult":false,"backdrop_path":null,"genre_ids":[99],"id":90959,"original_language":"en","original_title":"John
-        Wayne Standing Tall","overview":"Profile of one of the world''s most popular
-        motion picture stars, told through interviews with some of the artists who
-        worked with him, family, friends, and excerpts from many of his films and
-        television appearances.","popularity":0.62,"poster_path":null,"release_date":"1989-03-01","title":"John
-        Wayne Standing Tall","video":false,"vote_average":6.0,"vote_count":1},{"adult":false,"backdrop_path":null,"genre_ids":[99],"id":284400,"original_language":"en","original_title":"JOHN
-        WAYNE - AMERICAN LEGEND","overview":"This installment in A\u0026amp;E''s Biography
-        series follows the life of John Wayne from his troubled childhood to his peak
-        as America''s biggest box-office draw to his later years as a controversial
-        conservative icon. Examined closely, Wayne''s life is a startling series of
-        contradictions. He was a member of his high school''s Shakespeare club who
-        began his career by acting in scores of B-grade Westerns, and though he avoided
-        military service, he was considered an American hero. Filled with well-chosen
-        archival stills, as well as seldom-seen early clips, this video also features
-        interviews with fellow actors Charlton Heston and Ron Howard, as well as writer
-        and scholar Garry Wills (author of a brilliant intellectual study of Wayne''s
-        work and life, John Wayne''s America).","popularity":0.6,"poster_path":null,"release_date":"1998-03-14","title":"JOHN
-        WAYNE - AMERICAN LEGEND","video":true,"vote_average":4.0,"vote_count":3},{"adult":false,"backdrop_path":"/yc1ThVMFS2WY7knh1811ZSkz37E.jpg","genre_ids":[10402],"id":263001,"original_language":"fr","original_title":"Wayne
-        Shorter Quartet - Jazz in Marciac","overview":"Wayne Shorter Quartet - Jazz
-        in Marciac, 30 July 2013  Wayne Shorter - sax / John Patitucci - bass / Brian
-        Blade - drums /  Danilo Perez - piano  Tracks: 1. Medley : a). Zero Gravity
-        b). Water Babies c). Orbits d). She Moved Through The Fair e). Lotus f). Plaza
-        Real  2. Adventures Abroad The Golden Mean / I Go My Way By Myself  3. Joy
-        Rider","popularity":0.7,"poster_path":"/wXFLBA6yutIYD01UYNOpO2DaUpg.jpg","release_date":"","title":"Wayne
-        Shorter Quartet - Jazz in Marciac","video":false,"vote_average":7.5,"vote_count":3},{"adult":false,"backdrop_path":null,"genre_ids":[99],"id":393052,"original_language":"en","original_title":"Wayne
-        Dyer: The Power of Intention","overview":"In Dr. Wayne Dyer''s public television
-        special, taped live in front of a thousand fans in Boston''s historic theater
-        district, he transforms conventional thinking about making things happen in
-        our lives into a profound understanding of how each person possesses the infinite
-        potential and power to co-create the life he or she desires. To accomplish
-        this, Dr. Dyer takes the audience through a journey into the seven faces of
-        intention - 1: creativity, 2: kindness; 3: love, 4: beauty, 5: expansiveness,
-        6: abundance, and 7: receptivity. Throughout the program, Dr. Dyer illustrates
-        his points with signature stories that move the audience to tears--as well
-        as abundant laughter.","popularity":0.6,"poster_path":null,"release_date":"2003-05-14","title":"Wayne
-        Dyer: The Power of Intention","video":false,"vote_average":10.0,"vote_count":1},{"adult":false,"backdrop_path":null,"genre_ids":[99],"id":898826,"original_language":"en","original_title":"Wayne
-        Train","overview":"A short documentary on the making of THE TRAIN ROBBERS","popularity":0.6,"poster_path":null,"release_date":"1973-02-07","title":"Wayne
-        Train","video":false,"vote_average":0.0,"vote_count":0},{"adult":false,"backdrop_path":null,"genre_ids":[99],"id":393056,"original_language":"en","original_title":"Wayne
-        Dyer: Excuses Begone!","overview":"People are forever using excuses and defending
-        those excuses as if they were actually true. Such statements as ''It would
-        be very difficult for me to change'', or ''I''m too old/young to change''
-        are all excuses used regularly without challenging the truth of these thinking
-        habits. When you eliminate excuses that explain your shortcomings or failures,
-        you''ll awaken to your infinite possibilities.","popularity":0.6,"poster_path":null,"release_date":"2009-06-01","title":"Wayne
-        Dyer: Excuses Begone!","video":false,"vote_average":10.0,"vote_count":1},{"adult":false,"backdrop_path":null,"genre_ids":[99,10770],"id":483873,"original_language":"de","original_title":"John
-        Wayne - Eine amerikanische Legende","overview":"","popularity":0.6,"poster_path":"/v3qSQx5FmmWqLvGKsrisiQ1gSjC.jpg","release_date":"1991-01-31","title":"John
-        Wayne - Eine amerikanische Legende","video":false,"vote_average":6.0,"vote_count":1},{"adult":false,"backdrop_path":null,"genre_ids":[],"id":383204,"original_language":"en","original_title":"John
-        Wayne Hated Horses","overview":"A father and his young son share a house,
-        a yard and very different ideas about masculinity and appropriate uses of
-        army toys. The father and son both assert themselves with action rather than
-        words.","popularity":0.6,"poster_path":null,"release_date":"2009-03-14","title":"John
-        Wayne Hated Horses","video":false,"vote_average":0.0,"vote_count":0},{"adult":false,"backdrop_path":null,"genre_ids":[99],"id":78300,"original_language":"en","original_title":"Wayne
-        Gretzky: Above and Beyond","overview":"Once in a generation comes an athlete
-        so gifted that he completely dominates his sport. In our generation that man
-        is Wayne Gretzky. Gretzky is more than a hockey star, he is an inter-national
-        sports hero. ABOVE AND BEYOND takes you behind the headlines to that frozen
-        river where his career began.","popularity":0.945,"poster_path":"/4clN3VSsdn0kuXDbTLnCHm0NJT5.jpg","release_date":"1990-08-31","title":"Wayne
-        Gretzky: Above and Beyond","video":false,"vote_average":2.8,"vote_count":2},{"adult":false,"backdrop_path":null,"genre_ids":[99],"id":324160,"original_language":"en","original_title":"John
-        Wayne Parr: Blessed With Venom","overview":"Chronicling the life and career
-        of Australian Muay Thai superstar and 7 times World Champion, John Wayne Parr.","popularity":0.6,"poster_path":"/gjyESrvUXh8G6t0CU9ZtLjJsVom.jpg","release_date":"2011-10-26","title":"John
-        Wayne Parr: Blessed With Venom","video":false,"vote_average":8.0,"vote_count":2},{"adult":false,"backdrop_path":null,"genre_ids":[10402],"id":397945,"original_language":"en","original_title":"Wayne
-        Shorter: Live at Montreux 1996","overview":"Wayne Shorter is one of the most
-        significant jazz performers of modern times. He performed as part of Art Blakey''s
-        Jazz Messengers and then Miles Davis'' band in the sixties before co-founding
-        Weather Report with Joe Zawinul in the early seventies. This Montreux concert
-        from 1996 features the Wayne Shorter Quintet and followed on from the release
-        of his Grammy Award winning album \"High Life\".","popularity":0.623,"poster_path":"/akvfJpbAgCZmKaXp645G7sce6Hh.jpg","release_date":"1996-07-08","title":"Wayne
-        Shorter: Live at Montreux 1996","video":false,"vote_average":10.0,"vote_count":1},{"adult":false,"backdrop_path":"/3LbvcW1uzH5UTXI42B7j2X9dXIX.jpg","genre_ids":[10402],"id":535540,"original_language":"fr","original_title":"The
-        Language of the Unknown: A Film About the Wayne Shorter Quartet","overview":"“The
-        Language of the Unknown” accompanies the great saxophonist and his band with
-        a concert on November 3, 2012 in the Salle Pleyel in Paris, and observes the
-        effect of the music on its creators, who are normally much too busy with creating
-        the new than to deal with music already played.","popularity":0.6,"poster_path":"/kUjdHamZrSrS5zZE3beK2TczKQR.jpg","release_date":"2012-11-03","title":"The
-        Language of the Unknown: A Film About the Wayne Shorter Quartet","video":false,"vote_average":10.0,"vote_count":1},{"adult":false,"backdrop_path":null,"genre_ids":[10402],"id":185948,"original_language":"en","original_title":"Lil
-        Wayne: Unplugged","overview":"Welcomes hip-hop''s hottest MC to the legendary
-        Unplugged stage. As the world awaits his highly-anticipated ninth studio album,
-        Tha Carter IV, the show will feature stripped down versions of Lil Wayne''s
-        classics and more.","popularity":0.6,"poster_path":"/kiiEouqKPqaHvsDsemZ3CQ7Bb6p.jpg","release_date":"2011-06-12","title":"Lil
-        Wayne: Unplugged","video":true,"vote_average":5.5,"vote_count":2},{"adult":false,"backdrop_path":null,"genre_ids":[99],"id":872864,"original_language":"en","original_title":"A
-        Turning of the Earth: John Ford, John Wayne and ''The Searchers''","overview":"Documentary
-        on the making of \"The Searchers\" (1956), starring John Wayne and directed
-        by John Ford, with outtakes, behind-the-scenes footage and interviews with
-        many of the surviving cast and crew.","popularity":0.665,"poster_path":"/atkZ8IrLjCMYSqbqz87YZrqHrr5.jpg","release_date":"1998-01-01","title":"A
-        Turning of the Earth: John Ford, John Wayne and ''The Searchers''","video":false,"vote_average":0.0,"vote_count":0}],"total_pages":6,"total_results":103}'
-  recorded_at: Tue, 11 Jul 2023 16:14:09 GMT
+      string: '{"page":2,"results":[{"adult":false,"backdrop_path":"/nCiTVzB58NuKUjZ8p2zVykQY7GO.jpg","genre_ids":[18,10749,80],"id":835975,"original_language":"de","original_title":"Große
+        Freiheit","overview":"In post-war Germany, liberation by the Allies does not
+        mean freedom for everyone. Hans Hoffmann is repeatedly imprisoned under Paragraph
+        175, which criminalizes homosexuality. Nevertheless, over the decades, he
+        continues his quest for freedom and love, even if he finds it in the most
+        unusual places.","popularity":10.628,"poster_path":"/dPiTezDq9N4gMGhjMmvxoC0Hbjc.jpg","release_date":"2021-11-18","title":"Great
+        Freedom","video":false,"vote_average":7.192,"vote_count":130},{"adult":false,"backdrop_path":"/dTrMm9MqiLORGBqgpjzTJxKg5qO.jpg","genre_ids":[10751,12,18],"id":680447,"original_language":"de","original_title":"Ostwind
+        - Der große Orkan","overview":"Due to the sudden outbreak of a hurricane,
+        a traveling circus, famous for its stunning numbers with horses, calls into
+        the small German estate of Kaltenbach. Soon, Ari realizes that one of the
+        horses of this circus, named Orcan, is in mortal danger. Together with the
+        boy Carlo and their faithful friend, the horse Ostwind, they try to save Orkan
+        from the cruel owner of a traveling circus. However, the shrewd director unravels
+        their audacious plan. And Ostwind''s horse is also in trouble. Ari and Carlo
+        have very little time to rectify the situation and save Ostwind.","popularity":7.114,"poster_path":"/8N8rHkDWzQRGiTKHoGbvDhwE4It.jpg","release_date":"2021-07-29","title":"Windstorm:
+        The Great Hurricane","video":false,"vote_average":6.2,"vote_count":26},{"adult":false,"backdrop_path":"/tb440cwQMRoVHnhYJlzlxfv1ikm.jpg","genre_ids":[18,10749],"id":64682,"original_language":"en","original_title":"The
+        Great Gatsby","overview":"An adaptation of F. Scott Fitzgerald''s Long Island-set
+        novel, where Midwesterner Nick Carraway is lured into the lavish world of
+        his neighbor, Jay Gatsby. Soon enough, however, Carraway will see through
+        the cracks of Gatsby''s nouveau riche existence, where obsession, madness,
+        and tragedy await.","popularity":48.08,"poster_path":"/tyxfCBQv6Ap74jcu3xd7aBiaa29.jpg","release_date":"2013-05-09","title":"The
+        Great Gatsby","video":false,"vote_average":7.374,"vote_count":11764},{"adult":false,"backdrop_path":"/85B6S6eV5uF0AyaEQ79BcyLirty.jpg","genre_ids":[37,18],"id":9028,"original_language":"it","original_title":"Il
+        grande silenzio","overview":"A mute gunslinger fights in the defense of a
+        group of outlaws and a vengeful young widow, against a group of ruthless bounty
+        hunters.","popularity":18.717,"poster_path":"/3kpxS7SZMyYSXvhDnmxQXOOxiTM.jpg","release_date":"1968-02-21","title":"The
+        Great Silence","video":false,"vote_average":7.424,"vote_count":363},{"adult":false,"backdrop_path":"/7PzpnGL4W0oy1NAd0toIZeuDt0G.jpg","genre_ids":[16,35,14],"id":28152,"original_language":"ja","original_title":"スーパーマリオブラザーズ
+        ピーチ姫救出大作戦!","overview":"When Princess Peach is kidnapped by the monster King
+        Koopa, Mario and his brother Luigi journey to the Mushroom Kingdom to rescue
+        her.","popularity":11.553,"poster_path":"/d8466YAgDFZmsrWmgizPcUQMsIx.jpg","release_date":"1986-07-20","title":"Super
+        Mario Brothers: Great Mission to Rescue Princess Peach","video":false,"vote_average":6.278,"vote_count":106},{"adult":false,"backdrop_path":"/1hvi34MsgwK9WOQlCX7bV0vOjVH.jpg","genre_ids":[12,16,35,14],"id":433145,"original_language":"ja","original_title":"映画
+        妖怪ウォッチ 空飛ぶクジラとダブル世界の大冒険だニャン！","overview":"A giant whale appears and flies
+        above Sakura New Town. With the whale’s sound of crying, some changes occur
+        to Kenta Amano and Yokai.","popularity":9.266,"poster_path":"/fiVQhYmFW5GXw0fsPZ5hgCdDzZv.jpg","release_date":"2016-12-17","title":"Yo-kai
+        Watch: The Movie - The Great Adventure of the Flying Whale \u0026 the Double
+        World, Meow!","video":false,"vote_average":7.2,"vote_count":41},{"adult":false,"backdrop_path":"/fCrErWTy5YXrzN3NbDoolHwB4b.jpg","genre_ids":[10751,12,16,878,14],"id":52795,"original_language":"ja","original_title":"映画ドラえもん
+        のび太の新魔界大冒険","overview":"When Nobita turned the world into a world with magic
+        with the what-if-telephone-booth-gadget, He and his world needed to defeat
+        the threat that became reality in this world.","popularity":14.155,"poster_path":"/kg0NypyGzEPpE3FUFcrD6egbSb3.jpg","release_date":"2007-03-10","title":"Doraemon:
+        Nobita''s New Great Adventure Into the Underworld - The Seven Magic Users","video":false,"vote_average":7.0,"vote_count":63},{"adult":false,"backdrop_path":"/lrNKm3HNvGdZoAfiBKu7b04FLHN.jpg","genre_ids":[18],"id":316029,"original_language":"en","original_title":"The
+        Greatest Showman","overview":"The story of American showman P.T. Barnum, founder
+        of the circus that became the famous traveling Ringling Bros. and Barnum \u0026
+        Bailey Circus.","popularity":41.241,"poster_path":"/b9CeobiihCx1uG1tpw8hXmpi7nm.jpg","release_date":"2017-12-20","title":"The
+        Greatest Showman","video":false,"vote_average":7.902,"vote_count":9034},{"adult":false,"backdrop_path":"/1W1DzCd2MfsF5Z6WQ5AUaTgSPFB.jpg","genre_ids":[16,28,80,9648,12],"id":573364,"original_language":"ja","original_title":"名探偵コナン
+        エピソード\"ONE\" 小さくなった名探偵","overview":"Two-hour remake of the original 1st episode,
+        in celebration of the anime celebrating 20 years in broadcast. The special
+        retells what happened on the day Shinichi was transformed into the body of
+        a child. The special includes new scenes that weren''t in the original manga
+        or the first anime episode.","popularity":9.24,"poster_path":"/eQSCld1z6sZZNdVAPN56RHEJA3.jpg","release_date":"2016-12-09","title":"Detective
+        Conan: Episode One - The Great Detective Turned Small","video":false,"vote_average":7.543,"vote_count":23},{"adult":false,"backdrop_path":"/n65ypE18pRsYjrYbCwEtiSgNEpx.jpg","genre_ids":[16,35,12,14],"id":128871,"original_language":"ja","original_title":"クレヨンしんちゃん
+        ヘンダーランドの大冒険","overview":"The Futaba Kindergarten kids are so excited for their
+        trip to the Henderland amusement park, but Shin-chan soon learns there are
+        evil forces at play!","popularity":10.822,"poster_path":"/eD4OjlukN78DNNZ70fL2ItRQoNQ.jpg","release_date":"1996-04-13","title":"Crayon
+        Shin-chan: Great Adventure In Henderland","video":false,"vote_average":7.3,"vote_count":43},{"adult":false,"backdrop_path":"/iiZP2Jfj0FAD2ErNaEAEsFBcz7j.jpg","genre_ids":[16],"id":105444,"original_language":"ja","original_title":"ドラえもん
+        のび太の南海大冒険","overview":"The search for documentation about the sea for a school
+        work will make the magic door of Doraemon open and take Nobita to Shizuka,
+        Gian and Sueno in the deep ocean. This time our friends embark on a huge and
+        unique boat in order to learn about the mysteries of the sea and look for
+        treasures. What nobody imagines is that a distortion in the line of space-time
+        will lead them to the seventeenth century amid a great storm that will make
+        them wreck and where Doraemon loses its magic pocket. No time to lose, our
+        friends must find a way out. Will they succeed?","popularity":16.026,"poster_path":"/7wAQPPC4XLMvAvwCvR0k6V711my.jpg","release_date":"1998-03-07","title":"Doraemon:
+        Nobita''s Great Adventure in the South Seas","video":false,"vote_average":6.6,"vote_count":55},{"adult":false,"backdrop_path":"/ydcLVC25nKhSZOWFR4q68tMdJst.jpg","genre_ids":[10751,16,12,35,14],"id":412869,"original_language":"ja","original_title":"映画
+        妖怪ウォッチ エンマ大王と5つの物語だニャン！","overview":"Nate, Whisper, Jibanyan, Hailey, USApyon,
+        and all of their Yo-kai friends embark on five unique adventures that all
+        end up tied together in the end.","popularity":7.98,"poster_path":"/wHM16IGtPOjOiyERNsIukGQhWPe.jpg","release_date":"2015-12-19","title":"Yo-kai
+        Watch: The Movie - The Great King Enma and the Five Tales, Meow!","video":false,"vote_average":7.5,"vote_count":31},{"adult":false,"backdrop_path":"/5cnbmWWnzC2L0CbOYZDeCWbHHJP.jpg","genre_ids":[99],"id":324558,"original_language":"en","original_title":"X-Rated:
+        The Greatest Adult Movies of All Time","overview":"The evolution of adult
+        cinema through the most influential films in history, a journey that begins
+        in the 1970s and ends nowadays. An in-depth analysis of the success of the
+        most prestigious erotic films, their impact on industry and society, and their
+        influence on cinema and contemporary culture.","popularity":29.38,"poster_path":"/uYzHkzZPp84B7nHOKaJZWjyGFUL.jpg","release_date":"2015-02-06","title":"X-Rated:
+        The Greatest Adult Movies of All Time","video":false,"vote_average":6.242,"vote_count":165},{"adult":false,"backdrop_path":"/dnpSUzbvUy1sULcLddMMpUXsCAo.jpg","genre_ids":[28,18,35,12],"id":199584,"original_language":"ko","original_title":"은밀하게
+        위대하게","overview":"Three elite North Korean sleeper agents live under cover
+        for so long that they believe their cover stories are their real identities.
+        They are shocked when they are ordered to kill one another or face death at
+        the hands of an elite hit team.","popularity":10.57,"poster_path":"/n5ESZzOGxnmugkLvyd45wOsn0mg.jpg","release_date":"2013-06-05","title":"Secretly,
+        Greatly","video":false,"vote_average":7.1,"vote_count":172},{"adult":false,"backdrop_path":"/gXnKdxZV3GptioZfrRT7looJkuo.jpg","genre_ids":[],"id":1224226,"original_language":"zh","original_title":"天降大任","overview":"","popularity":2.299,"poster_path":"/sQG6cOVaN41OP55GUxjP2HLpClG.jpg","release_date":"2024-01-06","title":"The
+        Monkey King: Heaven''s Great Mission","video":false,"vote_average":2.0,"vote_count":1},{"adult":false,"backdrop_path":"/jHN8hldnPvPR6a3G5YeaEov2nNa.jpg","genre_ids":[18,9648],"id":83721,"original_language":"zh","original_title":"大魔術師","overview":"In
+        the years after the Revolution, China broken up into fiefdoms held by warlords,
+        who are busy fighting each other. One warlord has imprisoned a girl and wants
+        her to be his seventh wife, but he''s too honorable to force her. The local
+        revolutionaries wants to kill him and bring back the republic. But when a
+        stranger returns from abroad with mastery of magic to recover the girl he
+        loved, who is tricking whom and who will win at the end?","popularity":6.764,"poster_path":"/96k1xo0HLv0uzwefbUoAafaXBJg.jpg","release_date":"2011-12-22","title":"The
+        Great Magician","video":false,"vote_average":6.14,"vote_count":57},{"adult":false,"backdrop_path":"/d2ex7YczfUwC8kR7iaVlTcZkNTA.jpg","genre_ids":[16,28,12,878],"id":85311,"original_language":"ja","original_title":"UFOロボ
+        グレンダイザー対グレートマジンガー","overview":"Alien invaders take over Great Mazinger who
+        is at the entrance of a museum next to Mazinger Z as symbols of peace. Grendizer
+        fights the evil invaders and Great Mazinger is recovered.  When the Vegan
+        empire dispatches a new general to oversee the takeover of Earth, he quickly
+        manages to capture Koji Kabuto and, learning of Great Mazinger through interrogation,
+        quickly commandeers it from a museum where it was kept as a symbol of peace.  It
+        is now up to Duke Fleed aboard Grendizer to stop humanity''s former defender
+        from becoming its destroyer.","popularity":6.999,"poster_path":"/gmFzkzaD4PG0MbP45KdopYMnzff.jpg","release_date":"1976-03-20","title":"UFO
+        Robot Grendizer vs. Great Mazinger","video":false,"vote_average":5.9,"vote_count":14},{"adult":false,"backdrop_path":"/fcH7FM74GoHgOUnKjpGAoKOxWvY.jpg","genre_ids":[18,35,10752],"id":55823,"original_language":"it","original_title":"La
+        grande guerra","overview":"Italy, 1916. Oreste Jacovacci and Giovanni Busacca
+        are called, as all the Italian youths, to serve the army in the WWI. They
+        both try in every way to avoid serving the army.","popularity":6.771,"poster_path":"/aDvKsUb5y7GMNMz2HHNtuGww5t8.jpg","release_date":"1959-10-28","title":"The
+        Great War","video":false,"vote_average":8.167,"vote_count":327},{"adult":false,"backdrop_path":"/kJo3UCGldULLjrEK0XPOtS6FTl6.jpg","genre_ids":[18,35],"id":1181865,"original_language":"zh","original_title":"二手杰作","overview":"After
+        an accident puts his son in a coma, his father writes a fake suicide note
+        creating a situation that spirals out of control.","popularity":1.598,"poster_path":"/4nnaovllxETxPv88w1MgCmHMRbJ.jpg","release_date":"2023-10-27","title":"World''s
+        Greatest Dad","video":false,"vote_average":6.571,"vote_count":7},{"adult":false,"backdrop_path":"/dyZb0VGLvN8Md8caGZ3fNko4zy2.jpg","genre_ids":[35],"id":1000572,"original_language":"fr","original_title":"Les
+        Choses simples","overview":"Vincent is a famous successful entrepreneur. One
+        day, a car breakdown on a mountain road temporarily interrupts his frantic
+        lifestyle. Pierre, who lives apart from the modern world in the middle of
+        sublime nature, comes to his aid and offers him his hospitality. The meeting
+        between these two men, who are opposites will upset their respective beliefs
+        and they will find themselves laughing. The question is...deep down, are they
+        really each living the lives they want to live?","popularity":10.063,"poster_path":"/70GmOX3yhKETP4KzXmeH3OQOQ0h.jpg","release_date":"2023-02-22","title":"A
+        Great Friend","video":false,"vote_average":6.404,"vote_count":68}],"total_pages":184,"total_results":3675}'
+  recorded_at: Wed, 14 Feb 2024 01:13:57 GMT
 recorded_with: VCR 6.1.0
