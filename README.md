@@ -12,8 +12,8 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![LinkedIn][LinkedIn]][LinkedIn-url]
-[![LinkedIn][LinkedIn2]][LinkedIn2-url]
+[![Sterling][LinkedIn]][LinkedIn-url]
+[![Saylor][LinkedIn2]][LinkedIn2-url]
 
 
 
@@ -103,7 +103,7 @@ _Example wireframes are found [here](https://backend.turing.edu/module3/projects
 
   <p>
 
-[![CodeClimate][CodeClimate]][CodeClimate-url] [![CSS][CSS]][CSS-url] [![HTML5][HTML5]][HTML5-url] [![JavaScript][JavaScript]][JavaScript-url] [![PostgreSQL][PostgreSQL]][PostgreSQL-url] [![jQuery][jQuery]][jQuery-url] [![RuboCop][RuboCop]][RuboCop-url] [![Turing][Turing]][Turing-url]
+[![CodeClimate][CodeClimate]][CodeClimate-url] [![CSS][CSS]][CSS-url] [![HTML5][HTML5]][HTML5-url] [![JavaScript][JavaScript]][JavaScript-url] [![PostgreSQL][PostgreSQL]][PostgreSQL-url] [![jQuery][jQuery]][jQuery-url] [![RuboCop][RuboCop]][RuboCop-url]
 
   </p>
 
@@ -191,8 +191,9 @@ _For more examples, please refer to the [Documentation](https://backend.turing.e
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [AMSterling](https://github.com/AMSterling)
-* [blakesaylor](https://github.com/blakesaylor)
+* [![AMSterling][GitHub Badge]](https://github.com/AMSterling)
+* [![blakesaylor][GitHub-Saylor]](https://github.com/blakesaylor)
+* [![Turing][Turing]][Turing-url]
 
 ---
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -210,7 +211,7 @@ _For more examples, please refer to the [Documentation](https://backend.turing.e
 [issues-url]: https://github.com/AMSterling/viewing_party_lite/issues
 [license-shield]: https://img.shields.io/github/license/AMSterling/viewing_party_lite.svg?style=for-the-badge
 [license-url]: https://github.com/AMSterling/viewing_party_lite/blob/master/LICENSE.txt
-[LinkedIn]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[LinkedIn]: https://img.shields.io/badge/-Sterling-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [LinkedIn-url]: https://linkedin.com/in/sterling-316a6223a/
 
 [Atom]: https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white
@@ -238,7 +239,8 @@ _For more examples, please refer to the [Documentation](https://backend.turing.e
 [Git]: https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
 [Git-url]: https://git-scm.com/
 
-[GitHub Badge]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+[GitHub Badge]: https://img.shields.io/badge/AMSterling-100000?style=for-the-badge&logo=github&logoColor=white
+[GitHub-Saylor]: https://img.shields.io/badge/blakesaylor-100000?style=for-the-badge&logo=github&logoColor=white
 [GitHub-url]: https://github.com/enter_url/
 
 [GitHub Actions]: https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white
@@ -262,7 +264,7 @@ _For more examples, please refer to the [Documentation](https://backend.turing.e
 [jQuery]: https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white
 [jQuery-url]: https://github.com/rails/jquery-rails
 
-[LinkedIn2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[LinkedIn2]: https://img.shields.io/badge/B.Saylor-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [LinkedIn2-url]: https://www.linkedin.com/in/blake-saylor/
 
 [MacOS]: https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0
