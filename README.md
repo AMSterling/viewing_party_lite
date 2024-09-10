@@ -60,6 +60,7 @@
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
+        <li><a href="#run">Run</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -117,11 +118,7 @@ _Example wireframes are found [here](https://backend.turing.edu/module3/projects
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Follow installation instructions below. Push to your preferred production server or in your terminal run
-  ```sh
-  rails server
-  ```
-Then open [http://localhost:3000](http://localhost:3000) in your browser.
+Follow installation instructions below.
 
 ---
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -170,6 +167,7 @@ Database:
    ```sh
    bundle update
    ```
+   _A full list of gems that will be installed can be found in the [gemfile][gemfile-url]._
 4. Enter your API in `config/application.yml`
 
    ```js
@@ -180,14 +178,16 @@ Database:
    ```sh
    bundle exec rspec
    ```
+---
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-6. Push to your preferred production server or in your terminal run
+<!-- RUN -->
+### Run
+1. Push to your preferred production server or in your terminal run
    ```sh
    rails server
    ```
-   Then open [http://localhost:3000](http://localhost:3000) in your browser.
-
-_A full list of gems that will be installed can be found in the [gemfile][gemfile-url]._
+2. open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
