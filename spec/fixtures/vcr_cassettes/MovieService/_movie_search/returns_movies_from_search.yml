@@ -20,161 +20,156 @@ http_interactions:
     headers:
       Content-Type:
       - application/json;charset=utf-8
-      Transfer-Encoding:
-      - chunked
+      Content-Length:
+      - '13807'
       Connection:
       - keep-alive
       Date:
-      - Wed, 14 Feb 2024 01:13:57 GMT
+      - Tue, 10 Sep 2024 01:17:16 GMT
       Server:
       - openresty
       Cache-Control:
-      - public, max-age=27112
+      - public, max-age=16737
       X-Memc:
       - HIT
       X-Memc-Key:
       - cd3f5d0545c5f24cb2202b78addc6789
       X-Memc-Age:
-      - '411'
+      - '11051'
       X-Memc-Expires:
-      - '27112'
+      - '16737'
       Etag:
-      - W/"44036f78ce27c51f13efe9e9287d90bf"
+      - W/"c3c2a684a7ae306cecf5af38e066e628"
       Vary:
-      - Accept-Encoding
+      - Accept-Encoding,accept-encoding
       - Origin
       X-Cache:
       - Miss from cloudfront
       Via:
-      - 1.1 5539e869b7b6ea60eddee5f69c9a0d9c.cloudfront.net (CloudFront)
+      - 1.1 f6992241dd15e99fe1ce21d807856f16.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
-      - DEN52-C1
+      - DEN52-P2
       Alt-Svc:
       - h3=":443"; ma=86400
       X-Amz-Cf-Id:
-      - ro5G5qAEYjwMVMMGMqAmmZ2ld2EEkCECe6trp3N_7rLJvxS188AQnA==
+      - xoBgTwmQONnQirSDz2-R6K9ZpJE3LLOti80olVYE-z6LVSl9Du4WlA==
     body:
       encoding: UTF-8
-      string: '{"page":1,"results":[{"adult":false,"backdrop_path":"/gOkK6Y1QazWgA9Pf9ZiT3QLxRBZ.jpg","genre_ids":[80,18,28],"id":957992,"original_language":"zh","original_title":"军火大劫案","overview":"The
-        Great Arms Robbery","popularity":21.699,"poster_path":"/ronrzgFs2FOk0R4BAZgyLaYdhua.jpg","release_date":"2022-04-09","title":"The
-        Great Arms Robbery","video":false,"vote_average":6.9,"vote_count":34},{"adult":false,"backdrop_path":null,"genre_ids":[16,36,99],"id":208561,"original_language":"en","original_title":"Great","overview":"An
+      string: '{"page":1,"results":[{"adult":false,"backdrop_path":null,"genre_ids":[16,36,99],"id":208561,"original_language":"en","original_title":"Great","overview":"An
         animated film about the British engineer Isambard Kingdom Brunel, who spearheaded
         numerous engineering marvels of the early 19th century - including the Thames
         Tunnel, the Great Western Railway, and the Great Eastern steamship (for 40
         years the world''s largest steamship). Various styles of animation are used
-        to depict events in his colorful life.","popularity":4.082,"poster_path":"/xn7pcWqkXjfUtDNIzWjPq6On2ZP.jpg","release_date":"1975-03-17","title":"Great","video":false,"vote_average":5.637,"vote_count":72},{"adult":false,"backdrop_path":null,"genre_ids":[18,10752,35],"id":339566,"original_language":"en","original_title":"Great","overview":"Did
+        to depict events in his colorful life.","popularity":5.348,"poster_path":"/xn7pcWqkXjfUtDNIzWjPq6On2ZP.jpg","release_date":"1975-03-17","title":"Great","video":false,"vote_average":5.593,"vote_count":75},{"adult":false,"backdrop_path":null,"genre_ids":[18,10752,35],"id":339566,"original_language":"en","original_title":"Great","overview":"Did
         the Nazis ever see Charlie Chaplin''s ''The Great Dictator''? Yugoslavia,
         1942 - The young Serbian projectionist Nikola Radosevic decides to teach the
         German oppressors a lesson they won''t forget. The beginning of a true and
-        astonishing World War II resistance story.","popularity":1.509,"poster_path":"/bpp6lLfkROmYn6VzlFgevoWD2fp.jpg","release_date":"2013-01-01","title":"Great","video":false,"vote_average":4.025,"vote_count":40},{"adult":false,"backdrop_path":"/58KBZ6EhPacJPHzhVnhwijROOkk.jpg","genre_ids":[16,12,35,10751],"id":1061855,"original_language":"en","original_title":"Richard
-        the Stork and the Mystery of the Great Jewel","overview":"Richard, a sparrow
-        adopted by a stork family, is wintering at the Great Lake in Northern Africa.
-        When he realises that he won’t be the one to lead his flock back North, Richard
-        decides to travel on his own and crosses paths with Samia and her sparrow
-        flock, who are being held captive by evil marabous under the control of greedy
-        peacock Zamano. The only chance of freedom for the sparrows is to solve a
-        riddle and find the Great Jewel, which will call upon teamwork, trust and
-        most of all- spork (sparrow + stork) skills.","popularity":150.039,"poster_path":"/i2ITl0QHxZ4S0u12NK7Ddtm463k.jpg","release_date":"2023-03-23","title":"Richard
-        the Stork and the Mystery of the Great Jewel","video":false,"vote_average":7.2,"vote_count":6},{"adult":false,"backdrop_path":"/eHKRUk1QENXXzrgKg3nLHJCQn4m.jpg","genre_ids":[16,14],"id":1071101,"original_language":"ja","original_title":"大雪海のカイナ
-        ほしのけんじゃ","overview":"Kaina returns to the icy Canopy, unsure of what he should
-        do next. He and Ririha have brought peace to Atland and Valghia through an
-        alliance. Now supplies run low, and the people need answers. Kaina, Ririha,
-        and their small party set out to cross the snow in search of the great orbital
-        spire tree. This is the first step to saving their people. Join Kaina on an
-        expedition to save mankind!","popularity":44.247,"poster_path":"/tknSJyInVeBZhaIUHlzPpqA45Ej.jpg","release_date":"2023-10-13","title":"Kaina
-        of the Great Snow Sea: Star Sage","video":false,"vote_average":8.0,"vote_count":1},{"adult":false,"backdrop_path":"/5S31uyun3UTEHKOPtILe4i7VBAX.jpg","genre_ids":[99,10402],"id":1226841,"original_language":"en","original_title":"The
-        Greatest Night in Pop","overview":"In 1985, 46 music icons, including Lionel
-        Richie, Michael Jackson, Bruce Springsteen, Cyndi Lauper, Diana Ross, and
-        Stevie Wonder, came together for the most star-studded recording session in
-        history. This is the untold story of the legendary global pop song “We Are
-        the World” — which very nearly didn’t happen.","popularity":81.45,"poster_path":"/jDz4wFujk94tQP9Sx6EMKDULvkn.jpg","release_date":"2024-01-19","title":"The
-        Greatest Night in Pop","video":false,"vote_average":7.989,"vote_count":94},{"adult":false,"backdrop_path":null,"genre_ids":[99],"id":67006,"original_language":"en","original_title":"The
-        Great Barrier Reef","overview":"Mysterious and only superficially explored
-        by generations of the native Aborigines, Australia''s Great Barrier Reef is
-        one of the world''s most extraordinary natural life systems. Twelve hundred
-        miles long and made up of coral, it is the Earth''s largest structure built
-        by living things, in some places extending 120 miles into the sea. So many
-        varieties of life call the reef home that more than a dozen species can be
-        found within any square meter of its surface. This IMAX film brilliantly captures
-        the visual splendor of this environment with splendid underwater photography
-        typical of the format. Sharks, sea turtles, anemones, and the coral itself
-        are the living subjects of the camera''s probing eye. Overall, this documentary
-        is a comprehensive look at this long-studied web of life that leaves a lasting
-        impression of its depth and beauty.","popularity":1.902,"poster_path":"/woteaQKihwadpEr7XXxyt6aAd0v.jpg","release_date":"1981-01-01","title":"Great
-        Barrier Reef","video":false,"vote_average":5.3,"vote_count":5},{"adult":false,"backdrop_path":"/rN0YhB2ElrzO9ugtBhWY4wqYbz8.jpg","genre_ids":[10751,16,12,14,35,878],"id":285812,"original_language":"ja","original_title":"映画ドラえもん
+        astonishing World War II resistance story.","popularity":3.158,"poster_path":"/bpp6lLfkROmYn6VzlFgevoWD2fp.jpg","release_date":"2013-01-01","title":"Great","video":false,"vote_average":4.0,"vote_count":40},{"adult":false,"backdrop_path":"/weAaHO7lpQPDU0Wn15wQWBIzA61.jpg","genre_ids":[28,18,53],"id":1129608,"original_language":"ta","original_title":"தி
+        ககிரேட்டஸ்ட் ஆஃப் ஆல் டைம்","overview":"A once decorated member of the Special
+        Anti-Terrorism Squad (SATS) is called back into action by his former colleagues
+        for an important mission, setting him on a dangerous collision course with
+        his own past.","popularity":62.198,"poster_path":"/tvOWGExv6Ms79M1sz27scvEqeNf.jpg","release_date":"2024-09-05","title":"The
+        Greatest of All Time","video":false,"vote_average":4.7,"vote_count":7},{"adult":false,"backdrop_path":"/39XQf9sk2qyyleVOX6QdS9o8v53.jpg","genre_ids":[16,12,14,10751],"id":462677,"original_language":"ja","original_title":"映画ドラえもん
+        のび太の南極カチコチ大冒険","overview":"Doraemon and Nobita discover a mysterious golden
+        ring far beneath the ice in Antarctica, leading them to uncover an ancient,
+        ruined city.","popularity":17.795,"poster_path":"/dWxEck1aqWF7Z9OvOIzhNwl91w7.jpg","release_date":"2017-03-04","title":"Doraemon:
+        Nobita''s Great Adventure in the Antarctic Kachi Kochi","video":false,"vote_average":6.5,"vote_count":88},{"adult":false,"backdrop_path":"/gOkK6Y1QazWgA9Pf9ZiT3QLxRBZ.jpg","genre_ids":[28,80,18],"id":957992,"original_language":"zh","original_title":"军火大劫案","overview":"Agent
+        Wen goes undercover to locate weapons for an arms dealer. He''s attacked after
+        finding them, so he teams up with his partner to recover the munitions and
+        prevent disaster.","popularity":22.879,"poster_path":"/ronrzgFs2FOk0R4BAZgyLaYdhua.jpg","release_date":"2022-04-09","title":"The
+        Great Arms Robbery","video":false,"vote_average":6.561,"vote_count":57},{"adult":false,"backdrop_path":"/i94i5sNDvuf39ySZmYK7LyNVVQP.jpg","genre_ids":[35],"id":1000572,"original_language":"fr","original_title":"Les
+        Choses simples","overview":"Vincent is a famous successful entrepreneur. One
+        day, a car breakdown on a mountain road temporarily interrupts his frantic
+        lifestyle. Pierre, who lives apart from the modern world in the middle of
+        sublime nature, comes to his aid and offers him his hospitality. The meeting
+        between these two men, who are opposites will upset their respective beliefs
+        and they will find themselves laughing. The question is...deep down, are they
+        really each living the lives they want to live?","popularity":34.491,"poster_path":"/70GmOX3yhKETP4KzXmeH3OQOQ0h.jpg","release_date":"2023-02-22","title":"A
+        Great Friend","video":false,"vote_average":6.571,"vote_count":98},{"adult":false,"backdrop_path":"/x2pG1B1DASDtgYQyyAiTm4VVkxj.jpg","genre_ids":[36,18,28,10752],"id":96399,"original_language":"en","original_title":"For
+        Greater Glory: The True Story of Cristiada","overview":"A chronicle of the
+        Cristeros War (1926-1929), which was touched off by a rebellion against the
+        Mexican government''s attempt to secularize the country.","popularity":15.678,"poster_path":"/7jgh0ej04j98q2NFpSZLlpDazUo.jpg","release_date":"2012-06-01","title":"Outlaws
+        - For Greater Glory","video":false,"vote_average":6.7,"vote_count":149},{"adult":false,"backdrop_path":"/lgvk0Gjvrb9aOA13ZMiHWqk2NAo.jpg","genre_ids":[99],"id":1000194,"original_language":"es","original_title":"Los
+        ladrones: la verdadera historia del robo del siglo","overview":"Through candid
+        interviews, the perpetrators of Argentina''s most notorious bank heist detail
+        how — and why — they carried out the radical 2006 operation.","popularity":10.68,"poster_path":"/1qkIyRyXsrXaear1OdJd0QWaAkC.jpg","release_date":"2022-08-10","title":"Bank
+        Robbers: The Last Great Heist","video":false,"vote_average":6.6,"vote_count":58},{"adult":false,"backdrop_path":"/fCrErWTy5YXrzN3NbDoolHwB4b.jpg","genre_ids":[10751,12,16,878,14],"id":52795,"original_language":"ja","original_title":"映画ドラえもん
+        のび太の新魔界大冒険","overview":"When Nobita turned the world into a world with magic
+        with the what-if-telephone-booth-gadget, He and his world needed to defeat
+        the threat that became reality in this world.","popularity":16.136,"poster_path":"/kg0NypyGzEPpE3FUFcrD6egbSb3.jpg","release_date":"2007-03-10","title":"Doraemon:
+        Nobita''s New Great Adventure Into the Underworld - The Seven Magic Users","video":false,"vote_average":7.253,"vote_count":75},{"adult":false,"backdrop_path":"/6Aj4LfIOhG85obqGE3O0WvpQzqw.jpg","genre_ids":[12,10751,16,14],"id":86184,"original_language":"ja","original_title":"映画ドラえもん
+        のび太の人魚大海戦","overview":"When Nobita goes diving with Doraemon, a mermaid named
+        Sophia comes close to him and they all befriend her. When they proceed towards
+        her kingdom, they encounter a fight between two opposing tribes.","popularity":15.273,"poster_path":"/lvi0MjGJvWPAAqQaxCwwMsLqBG8.jpg","release_date":"2010-03-06","title":"Doraemon:
+        Nobita''s Great Battle of the Mermaid King","video":false,"vote_average":7.056,"vote_count":61},{"adult":false,"backdrop_path":"/rAqJt3BLfQyQxwEM7a2nxlpc2wR.jpg","genre_ids":[12],"id":43205,"original_language":"en","original_title":"Tarzan''s
+        Greatest Adventure","overview":"The greatest adventure of jungle king Tarzan.
+        Four British villains raid a settlement to obtain explosives for use in a
+        diamond mine. In doing so they nearly destroy the settlement, so Tarzan pursues
+        them to their mine.","popularity":7.606,"poster_path":"/5wD8bHOKqBRoK7Mgj8aIA4NzENa.jpg","release_date":"1959-07-08","title":"Tarzan''s
+        Greatest Adventure","video":false,"vote_average":5.279,"vote_count":43},{"adult":false,"backdrop_path":"/tb440cwQMRoVHnhYJlzlxfv1ikm.jpg","genre_ids":[18,10749],"id":64682,"original_language":"en","original_title":"The
+        Great Gatsby","overview":"An adaptation of F. Scott Fitzgerald''s Long Island-set
+        novel, where Midwesterner Nick Carraway is lured into the lavish world of
+        his neighbor, Jay Gatsby. Soon enough, however, Carraway will see through
+        the cracks of Gatsby''s nouveau riche existence, where obsession, madness,
+        and tragedy await.","popularity":37.597,"poster_path":"/tyxfCBQv6Ap74jcu3xd7aBiaa29.jpg","release_date":"2013-05-09","title":"The
+        Great Gatsby","video":false,"vote_average":7.367,"vote_count":12069},{"adult":false,"backdrop_path":"/jmg9qYhzPZdYuNaOZr5xrQPK6cQ.jpg","genre_ids":[28,12,14],"id":311324,"original_language":"en","original_title":"The
+        Great Wall","overview":"European mercenaries searching for black powder become
+        embroiled in the defense of the Great Wall of China against a horde of monstrous
+        creatures.","popularity":51.861,"poster_path":"/p70dq1YxabemdZDm5K6Q8G10wSn.jpg","release_date":"2016-12-16","title":"The
+        Great Wall","video":false,"vote_average":6.025,"vote_count":5053},{"adult":false,"backdrop_path":"/oGe84ddxe2R90hFwvCDxOINE8qL.jpg","genre_ids":[10752,36,28],"id":535389,"original_language":"ko","original_title":"안시성","overview":"Kingdom
+        of Goguryeo, ancient Korea, 645. The ruthless Emperor Taizong of Tang invades
+        the country and leads his armies towards the capital, achieving one victory
+        after another, but on his way is the stronghold of Ansi, protected by General
+        Yang Man-chu, who will do everything possible to stop the invasion, even if
+        his troops are outnumbered by thousands of enemies.","popularity":17.275,"poster_path":"/gv5ByLHZfn7MUKpjJovRTr5URGg.jpg","release_date":"2018-09-19","title":"The
+        Great Battle","video":false,"vote_average":6.801,"vote_count":161},{"adult":false,"backdrop_path":"/eU0AGpkCfJ5AhP4NIrVfDUp9ele.jpg","genre_ids":[16,35,14],"id":28152,"original_language":"ja","original_title":"スーパーマリオブラザーズ
+        ピーチ姫救出大作戦!","overview":"When Princess Peach is kidnapped by the monster King
+        Koopa, Mario and his brother Luigi journey to the Mushroom Kingdom to rescue
+        her.","popularity":12.359,"poster_path":"/22bfMdGh4qlpSubN84bUY1Ly7mD.jpg","release_date":"1986-07-20","title":"Super
+        Mario Brothers: Great Mission to Rescue Princess Peach","video":false,"vote_average":6.2,"vote_count":108},{"adult":false,"backdrop_path":"/rN0YhB2ElrzO9ugtBhWY4wqYbz8.jpg","genre_ids":[10751,16,12,14,35,878],"id":285812,"original_language":"ja","original_title":"映画ドラえもん
         新・のび太の大魔境 ～ペコと5人の探検隊～","overview":"Nobita finds a stray dog and brings him
         home, little does hi knows that the dog is actually a prince in his homeland,
         a world appart deep in the african ''Smokers Forest'' were the dogs evolved
         and have their own empire, so he and his friends take on a journey to take
         back the young prince to his homeland but when they get there things have
-        changed.","popularity":25.37,"poster_path":"/xKGMXQFGca4nKcO308aZ6nWz0Gc.jpg","release_date":"2014-03-08","title":"Doraemon:
-        New Nobita''s Great Demon – Peko and the Exploration Party of Five","video":false,"vote_average":6.2,"vote_count":106},{"adult":false,"backdrop_path":"/d9IXxTrra12erdjVXoWUhuTVzTH.jpg","genre_ids":[10752,18,36],"id":31217,"original_language":"ja","original_title":"人間の條件　第１部純愛篇／第２部激怒篇","overview":"After
-        handing in a report on the treatment of Chinese colonial labor, Kaji is offered
-        the post of labor chief at a large mining operation in Manchuria, which also
-        grants him exemption from military service. He accepts, and moves to Manchuria
-        with his newly-wed wife Michiko, but when he tries to put his ideas of more
-        humane treatment into practice, he finds himself at odds with scheming officials,
-        cruel foremen, and the military police.","popularity":9.32,"poster_path":"/oWCFLELvRjNj1mbsCDOKWRcnmD2.jpg","release_date":"1959-01-15","title":"The
-        Human Condition I: No Greater Love","video":false,"vote_average":8.0,"vote_count":215},{"adult":false,"backdrop_path":"/x2pG1B1DASDtgYQyyAiTm4VVkxj.jpg","genre_ids":[36,18,28,10752],"id":96399,"original_language":"en","original_title":"For
-        Greater Glory: The True Story of Cristiada","overview":"A chronicle of the
-        Cristeros War (1926-1929), which was touched off by a rebellion against the
-        Mexican government''s attempt to secularize the country.","popularity":12.696,"poster_path":"/7jgh0ej04j98q2NFpSZLlpDazUo.jpg","release_date":"2012-06-01","title":"Outlaws
-        - For Greater Glory","video":false,"vote_average":6.7,"vote_count":142},{"adult":false,"backdrop_path":"/39XQf9sk2qyyleVOX6QdS9o8v53.jpg","genre_ids":[16,12,14,10751],"id":462677,"original_language":"ja","original_title":"映画ドラえもん
-        のび太の南極カチコチ大冒険","overview":"Doraemon and Nobita discover a mysterious golden
-        ring far beneath the ice in Antarctica, leading them to uncover an ancient,
-        ruined city.","popularity":21.811,"poster_path":"/dWxEck1aqWF7Z9OvOIzhNwl91w7.jpg","release_date":"2017-03-04","title":"Doraemon:
-        Nobita''s Great Adventure in the Antarctic Kachi Kochi","video":false,"vote_average":6.488,"vote_count":84},{"adult":false,"backdrop_path":"/oGe84ddxe2R90hFwvCDxOINE8qL.jpg","genre_ids":[10752,36,28],"id":535389,"original_language":"ko","original_title":"안시성","overview":"Kingdom
-        of Goguryeo, ancient Korea, 645. The ruthless Emperor Taizong of Tang invades
-        the country and leads his armies towards the capital, achieving one victory
-        after another, but on his way is the stronghold of Ansi, protected by General
-        Yang Man-chu, who will do everything possible to stop the invasion, even if
-        his troops are outnumbered by thousands of enemies.","popularity":20.377,"poster_path":"/gv5ByLHZfn7MUKpjJovRTr5URGg.jpg","release_date":"2018-09-19","title":"The
-        Great Battle","video":false,"vote_average":6.785,"vote_count":149},{"adult":false,"backdrop_path":"/iULrT3sYoq6fZ70L1BI6KbGBwli.jpg","genre_ids":[53,18,9648],"id":273197,"original_language":"zh","original_title":"催眠大师","overview":"The
-        famous psychologist Xu Ruining has a raising career, when he met the troublesome
-        patient Ren Xiaoyan. The meeting is not easy as feeble-looking Ren is point
-        by point against him.","popularity":10.733,"poster_path":"/hqfKwoVMe3WCtTWWv2rIW6Oe05X.jpg","release_date":"2014-04-29","title":"The
-        Great Hypnotist","video":false,"vote_average":6.52,"vote_count":75},{"adult":false,"backdrop_path":"/rck9CWGMU8uKYBJCf46modwpwJd.jpg","genre_ids":[18,35],"id":1159086,"original_language":"es","original_title":"La
-        gran seducción","overview":"When a golden opportunity arises to boost the
-        fortunes of a forgotten fishing town, its residents set out to trick their
-        way to making it happen.","popularity":14.698,"poster_path":"/4EONm3medZBNfHhost4taqrje1r.jpg","release_date":"2023-08-30","title":"The
-        Great Seduction","video":false,"vote_average":6.735,"vote_count":85},{"adult":false,"backdrop_path":null,"genre_ids":[99],"id":427719,"original_language":"en","original_title":"X-Rated
-        2: The Greatest Adult Stars of All-Time","overview":"Documentary sequel that
-        offers a close-up look into the personal lives of the legendary porn stars
-        who''ve survived the test of time and influenced popular culture. Blends rare
-        interviews with erotic clips and additional appearances by Whoopi Goldberg,
-        Steven Soderbergh and a host of adult stars, directors and trendsetters.","popularity":23.791,"poster_path":"/dW8AzndbV7gRYtmYLPSmHscugce.jpg","release_date":"2016-10-28","title":"X-Rated
-        2: The Greatest Adult Stars of All-Time","video":false,"vote_average":6.7,"vote_count":94},{"adult":false,"backdrop_path":"/rAqJt3BLfQyQxwEM7a2nxlpc2wR.jpg","genre_ids":[12],"id":43205,"original_language":"en","original_title":"Tarzan''s
-        Greatest Adventure","overview":"The greatest adventure of jungle king Tarzan.
-        Four British villains raid a settlement to obtain explosives for use in a
-        diamond mine. In doing so they nearly destroy the settlement, so Tarzan pursues
-        them to their mine.","popularity":8.49,"poster_path":"/5wD8bHOKqBRoK7Mgj8aIA4NzENa.jpg","release_date":"1959-07-08","title":"Tarzan''s
-        Greatest Adventure","video":false,"vote_average":5.244,"vote_count":41},{"adult":false,"backdrop_path":"/vJvUG1WYlXyNdvduUPz3MkAjQ4f.jpg","genre_ids":[12,16,18,36],"id":115969,"original_language":"ja","original_title":"手塚治虫のブッダ
-        -赤い砂漠よ!美しく-","overview":"Prince Siddhartha is heir to the Shakya kingdom,
-        which is constantly at war with the more powerful Kosala kingdom. His father
-        tries to raise as him as a warrior leader and to shield him from the miseries
-        of the world. Meeting the young outcast girl Migaila, Siddhartha experiences
-        love for the first time but also witnesses the suffering that afflicts humankind.
-        Meanwhile, in Kosala, Chapra rises through the military, despite his lowly
-        origins, to become a hero and general of the army. A final showdown between
-        the two kingdoms forces Siddhartha to re-evaluate the path he is following.","popularity":17.362,"poster_path":"/2hPrb9XuZSwmY6MVtWjUvczPQtG.jpg","release_date":"2011-05-28","title":"Buddha:
-        The Great Departure","video":false,"vote_average":7.4,"vote_count":64},{"adult":false,"backdrop_path":"/caGv0jxkJUP8eVFMDca6B4pTB0e.jpg","genre_ids":[18],"id":179144,"original_language":"it","original_title":"La
+        changed.","popularity":17.731,"poster_path":"/xKGMXQFGca4nKcO308aZ6nWz0Gc.jpg","release_date":"2014-03-08","title":"Doraemon:
+        New Nobita''s Great Demon - Peko and the Exploration Party of Five","video":false,"vote_average":6.2,"vote_count":110},{"adult":false,"backdrop_path":"/ffEn0R0tOLpjpbuyf2Z0jm6oqNU.jpg","genre_ids":[18],"id":1159470,"original_language":"ja","original_title":"大いなる不在","overview":"It''s
+        about the reunion of a long-estranged father and his son amid lost memories
+        and scattered fragments of lives.","popularity":5.532,"poster_path":"/539mT0yDBPvaP9ZAYxkO9XhqCKd.jpg","release_date":"2024-07-12","title":"Great
+        Absence","video":false,"vote_average":0.0,"vote_count":0},{"adult":false,"backdrop_path":"/1BMDWgBGkLx7U5NkCk9RpH2nBY6.jpg","genre_ids":[16,35,878],"id":112538,"original_language":"ja","original_title":"超劇場版ケロロ軍曹
+        3 ケロロ対ケロロ 天空大決戦であります！","overview":"The movie begins with Fuyuki Hinata and
+        the Keroro Platoon exploring an abandoned temple in the mountaintop city of
+        Machu Picchu in Peru. While on the exploration, Keroro accidentally sets off
+        a trap, and by chance they find a hidden chamber with a large blue crystal
+        in the center, on a stand that has a key in it. Keroro leans on the key, causing
+        the room to activate a mysterious machine, this caused the entire temple to
+        shake. As soon as the group realized what was happening, they run out of the
+        room. While running, Keroro accidentally loses his Kero Ball while Fuyuki
+        catches a fleeting glimpse of a glowing young woman as he is running out,
+        and tells Keroro that there was a girl in the room, but he is forced to leave
+        the room before he can say anything else. The group successfully escapes,
+        while the girl (now sprouting a pair of glowing wings) watches them leave
+        - while back in the chamber, something is growing within the crystal...","popularity":5.898,"poster_path":"/kT21JTUQrMXgTxYjLxG7RTJOqbU.jpg","release_date":"2008-03-10","title":"Sergeant
+        Keroro The Super Duper Movie 3: Keroro vs. Keroro Great Sky Duel","video":false,"vote_average":6.4,"vote_count":7},{"adult":false,"backdrop_path":"/caGv0jxkJUP8eVFMDca6B4pTB0e.jpg","genre_ids":[18],"id":179144,"original_language":"it","original_title":"La
         grande bellezza","overview":"Jep Gambardella has seduced his way through the
         lavish nightlife of Rome for decades, but after his 65th birthday and a shock
         from the past, Jep looks past the nightclubs and parties to find a timeless
-        landscape of absurd, exquisite beauty.","popularity":17.366,"poster_path":"/1cmOc3ZPkuCTOTqHEsRr3Pk81Um.jpg","release_date":"2013-05-21","title":"The
-        Great Beauty","video":false,"vote_average":7.507,"vote_count":2962},{"adult":false,"backdrop_path":"/6Aj4LfIOhG85obqGE3O0WvpQzqw.jpg","genre_ids":[12,10751,16],"id":86184,"original_language":"ja","original_title":"映画ドラえもん
-        のび太の人魚大海戦","overview":"When Nobita feels like diving in his hometown, Doraemon
-        uses a Underwater Pump Simulator to pump all the water out of Tokyo, causing
-        the entire city to go underwater. That night, Doraemon and Nobita use a Diving
-        Mask Simulator to dive underwater. Later on, lots of fish, and a shark attack
-        Doraemon and Nobita. So, Doraemon puts a stop on the Underwater Pump Simulator,
-        but there is a girl named Sophia, lying down on the bushes in his neighborhood.","popularity":18.203,"poster_path":"/lvi0MjGJvWPAAqQaxCwwMsLqBG8.jpg","release_date":"2010-03-06","title":"Doraemon:
-        Nobita''s Great Battle of the Mermaid King","video":false,"vote_average":7.0,"vote_count":58},{"adult":false,"backdrop_path":"/jmg9qYhzPZdYuNaOZr5xrQPK6cQ.jpg","genre_ids":[28,12,14],"id":311324,"original_language":"en","original_title":"The
-        Great Wall","overview":"European mercenaries searching for black powder become
-        embroiled in the defense of the Great Wall of China against a horde of monstrous
-        creatures.","popularity":54.115,"poster_path":"/p70dq1YxabemdZDm5K6Q8G10wSn.jpg","release_date":"2016-12-16","title":"The
-        Great Wall","video":false,"vote_average":6.012,"vote_count":4867}],"total_pages":184,"total_results":3675}'
-  recorded_at: Wed, 14 Feb 2024 01:13:57 GMT
+        landscape of absurd, exquisite beauty.","popularity":15.226,"poster_path":"/1cmOc3ZPkuCTOTqHEsRr3Pk81Um.jpg","release_date":"2013-05-21","title":"The
+        Great Beauty","video":false,"vote_average":7.511,"vote_count":3040},{"adult":false,"backdrop_path":"/q3Buqnnc0SmSmd9SMSsT7dbCm9j.jpg","genre_ids":[16,12,35,14],"id":125510,"original_language":"ja","original_title":"スレイヤーズぐれえと
+        / SLAYERS: GREAT","overview":"All Laia Einburg wants for her golem-making
+        father Galia and her equally ambitious brother Huey is to end a long running
+        feud. But her world gets turned upside down when short-stature Lina Inverse
+        and overly endowed Naga the Serpent save Laia from a rampaging golem.  A grateful,
+        but smitten, Galia asks Lina to be a model for his work. Not to be outdone,
+        Huey makes a similar request to Naga. The results are towering remote-controlled
+        golems in the image of our favorite sorceresses! Huey gets all the proportions
+        right, but Galia''s taste is just weird. Adding insult to injury, Galia turns
+        Lina into a magical battery pack!  Officially, Lords Haizen and Granion commissioned
+        these golems for a contest to determine the ruler of the city of Stoner. But
+        the lords are secretly planning to use the golems as prototypes for an army
+        of conquest! Can Lina and Naga save the city from tyranny?","popularity":8.649,"poster_path":"/aMoC3UJ2QLqJj8MOGsoNhthdMtm.jpg","release_date":"1997-08-02","title":"Slayers
+        Great","video":false,"vote_average":5.8,"vote_count":10}],"total_pages":195,"total_results":3900}'
+  recorded_at: Tue, 10 Sep 2024 01:17:16 GMT
 - request:
     method: get
     uri: https://api.themoviedb.org/3/search/movie?api_key=<API Key>&page=2&query=Great
@@ -195,16 +190,16 @@ http_interactions:
     headers:
       Content-Type:
       - application/json;charset=utf-8
-      Transfer-Encoding:
-      - chunked
+      Content-Length:
+      - '14661'
       Connection:
       - keep-alive
       Date:
-      - Wed, 14 Feb 2024 01:13:57 GMT
+      - Tue, 10 Sep 2024 01:17:16 GMT
       Server:
       - openresty
       Cache-Control:
-      - public, max-age=24278
+      - public, max-age=27211
       X-Memc:
       - MISS, STORE
       X-Memc-Key:
@@ -212,31 +207,45 @@ http_interactions:
       X-Memc-Age:
       - '0'
       X-Memc-Expires:
-      - '24278'
+      - '27211'
       Etag:
-      - W/"f8458b2b66c8ee80f1224e5e82026fa4"
+      - W/"93b304381258a384798f775b87b5497d"
       Vary:
-      - Accept-Encoding
+      - Accept-Encoding,accept-encoding
       - Origin
       X-Cache:
       - Miss from cloudfront
       Via:
-      - 1.1 9427b8c01c70c4a2deb16eed5a2ced9c.cloudfront.net (CloudFront)
+      - 1.1 61ff1927788a811372346b5470412a78.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
-      - DEN52-C1
+      - DEN52-P2
       Alt-Svc:
       - h3=":443"; ma=86400
       X-Amz-Cf-Id:
-      - 2jkqPPNhkkhGZwqbT-9K115mwqRNHSQMxHiX3wsrOpJqwtIl-wwIzA==
+      - vc3BLO3RM6TtGeMO4zJRh1yGUlevANrR1x-Pq_WAacZdn0rm8aOBSA==
     body:
       encoding: UTF-8
-      string: '{"page":2,"results":[{"adult":false,"backdrop_path":"/nCiTVzB58NuKUjZ8p2zVykQY7GO.jpg","genre_ids":[18,10749,80],"id":835975,"original_language":"de","original_title":"Große
-        Freiheit","overview":"In post-war Germany, liberation by the Allies does not
-        mean freedom for everyone. Hans Hoffmann is repeatedly imprisoned under Paragraph
-        175, which criminalizes homosexuality. Nevertheless, over the decades, he
-        continues his quest for freedom and love, even if he finds it in the most
-        unusual places.","popularity":10.628,"poster_path":"/dPiTezDq9N4gMGhjMmvxoC0Hbjc.jpg","release_date":"2021-11-18","title":"Great
-        Freedom","video":false,"vote_average":7.192,"vote_count":130},{"adult":false,"backdrop_path":"/dTrMm9MqiLORGBqgpjzTJxKg5qO.jpg","genre_ids":[10751,12,18],"id":680447,"original_language":"de","original_title":"Ostwind
+      string: '{"page":2,"results":[{"adult":false,"backdrop_path":"/lrNKm3HNvGdZoAfiBKu7b04FLHN.jpg","genre_ids":[18],"id":316029,"original_language":"en","original_title":"The
+        Greatest Showman","overview":"The story of American showman P.T. Barnum, founder
+        of the circus that became the famous traveling Ringling Bros. and Barnum \u0026
+        Bailey Circus.","popularity":52.355,"poster_path":"/b9CeobiihCx1uG1tpw8hXmpi7nm.jpg","release_date":"2017-12-20","title":"The
+        Greatest Showman","video":false,"vote_average":7.891,"vote_count":9299},{"adult":false,"backdrop_path":"/8UUSZglWTKjFDxNVI9jqWP0KLS.jpg","genre_ids":[878],"id":64071,"original_language":"en","original_title":"Tobor
+        the Great","overview":"To avoid the life-threatening dangers of manned space
+        exploration, Professor Nordstrom creates highly advanced form of artificial
+        intelligence capable of piloting a starship to other worlds. In order to transmit
+        alien data, the extraordinary robot is infused with a powerful telepathic
+        device that enables it to instantly read and even feel emotions. Danger strikes
+        when a sinister band of covert agents kidnaps Gadge, the professor''s 10-year-old
+        grandson. But Gadge has a powerful ally. For he has developed a psychic, emotional
+        bond with his grandfather''s robot. And now Gadge''s captors must suffer the
+        wrath of his protective friend. They must face a mechanical monstrosity bent
+        on a killing rampage of revenge and destruction.","popularity":3.426,"poster_path":"/rCe9g0XZLNNAafI1KjhDOkZg1Wk.jpg","release_date":"1954-09-01","title":"Tobor
+        the Great","video":false,"vote_average":5.3,"vote_count":28},{"adult":false,"backdrop_path":"/kKmGNW5FZ74aIJQoVnt38ZtgRFG.jpg","genre_ids":[16,28,12,35,80],"id":154189,"original_language":"en","original_title":"Lupin
+        the Third: Greatest Capers","overview":"A double dose of fun and excitement
+        unfolds as Lupin III, the world''s most loveable thief, does his best to stay
+        one step ahead of the law, as he presents his two most spectacular capers!
+        Hayao Miyazaki directed both episodes under the pseudonym Teruki Tsutomu.","popularity":4.368,"poster_path":"/90gkvDSB5AYd26wMtJUoyLSHNcB.jpg","release_date":"1995-01-01","title":"Lupin
+        the Third: Greatest Capers","video":true,"vote_average":6.9,"vote_count":36},{"adult":false,"backdrop_path":"/dTrMm9MqiLORGBqgpjzTJxKg5qO.jpg","genre_ids":[10751,12,18],"id":680447,"original_language":"de","original_title":"Ostwind
         - Der große Orkan","overview":"Due to the sudden outbreak of a hurricane,
         a traveling circus, famous for its stunning numbers with horses, calls into
         the small German estate of Kaltenbach. Soon, Ari realizes that one of the
@@ -244,45 +253,74 @@ http_interactions:
         boy Carlo and their faithful friend, the horse Ostwind, they try to save Orkan
         from the cruel owner of a traveling circus. However, the shrewd director unravels
         their audacious plan. And Ostwind''s horse is also in trouble. Ari and Carlo
-        have very little time to rectify the situation and save Ostwind.","popularity":7.114,"poster_path":"/8N8rHkDWzQRGiTKHoGbvDhwE4It.jpg","release_date":"2021-07-29","title":"Windstorm:
-        The Great Hurricane","video":false,"vote_average":6.2,"vote_count":26},{"adult":false,"backdrop_path":"/tb440cwQMRoVHnhYJlzlxfv1ikm.jpg","genre_ids":[18,10749],"id":64682,"original_language":"en","original_title":"The
-        Great Gatsby","overview":"An adaptation of F. Scott Fitzgerald''s Long Island-set
-        novel, where Midwesterner Nick Carraway is lured into the lavish world of
-        his neighbor, Jay Gatsby. Soon enough, however, Carraway will see through
-        the cracks of Gatsby''s nouveau riche existence, where obsession, madness,
-        and tragedy await.","popularity":48.08,"poster_path":"/tyxfCBQv6Ap74jcu3xd7aBiaa29.jpg","release_date":"2013-05-09","title":"The
-        Great Gatsby","video":false,"vote_average":7.374,"vote_count":11764},{"adult":false,"backdrop_path":"/85B6S6eV5uF0AyaEQ79BcyLirty.jpg","genre_ids":[37,18],"id":9028,"original_language":"it","original_title":"Il
+        have very little time to rectify the situation and save Ostwind.","popularity":10.692,"poster_path":"/8N8rHkDWzQRGiTKHoGbvDhwE4It.jpg","release_date":"2021-07-29","title":"Windstorm:
+        The Great Hurricane","video":false,"vote_average":6.4,"vote_count":31},{"adult":false,"backdrop_path":"/85B6S6eV5uF0AyaEQ79BcyLirty.jpg","genre_ids":[37,18],"id":9028,"original_language":"it","original_title":"Il
         grande silenzio","overview":"A mute gunslinger fights in the defense of a
         group of outlaws and a vengeful young widow, against a group of ruthless bounty
-        hunters.","popularity":18.717,"poster_path":"/3kpxS7SZMyYSXvhDnmxQXOOxiTM.jpg","release_date":"1968-02-21","title":"The
-        Great Silence","video":false,"vote_average":7.424,"vote_count":363},{"adult":false,"backdrop_path":"/7PzpnGL4W0oy1NAd0toIZeuDt0G.jpg","genre_ids":[16,35,14],"id":28152,"original_language":"ja","original_title":"スーパーマリオブラザーズ
-        ピーチ姫救出大作戦!","overview":"When Princess Peach is kidnapped by the monster King
-        Koopa, Mario and his brother Luigi journey to the Mushroom Kingdom to rescue
-        her.","popularity":11.553,"poster_path":"/d8466YAgDFZmsrWmgizPcUQMsIx.jpg","release_date":"1986-07-20","title":"Super
-        Mario Brothers: Great Mission to Rescue Princess Peach","video":false,"vote_average":6.278,"vote_count":106},{"adult":false,"backdrop_path":"/1hvi34MsgwK9WOQlCX7bV0vOjVH.jpg","genre_ids":[12,16,35,14],"id":433145,"original_language":"ja","original_title":"映画
+        hunters.","popularity":12.823,"poster_path":"/3kpxS7SZMyYSXvhDnmxQXOOxiTM.jpg","release_date":"1968-02-21","title":"The
+        Great Silence","video":false,"vote_average":7.42,"vote_count":381},{"adult":false,"backdrop_path":"/74LbwKx0VqQ2bYE2oVkZqcjQQY.jpg","genre_ids":[18,10749,80],"id":835975,"original_language":"de","original_title":"Große
+        Freiheit","overview":"In post-war Germany, liberation by the Allies does not
+        mean freedom for everyone. Hans Hoffmann is repeatedly imprisoned under Paragraph
+        175, which criminalizes homosexuality. Nevertheless, over the decades, he
+        continues his quest for freedom and love, even if he finds it in the most
+        unusual places.","popularity":12.815,"poster_path":"/vbx3xp83wLo3ocdzhs3BvGHcrsF.jpg","release_date":"2021-11-18","title":"Great
+        Freedom","video":false,"vote_average":7.2,"vote_count":142},{"adult":false,"backdrop_path":"/eHKRUk1QENXXzrgKg3nLHJCQn4m.jpg","genre_ids":[16,14],"id":1071101,"original_language":"ja","original_title":"大雪海のカイナ
+        ほしのけんじゃ","overview":"Kaina returns to the icy Canopy, unsure of what he should
+        do next. He and Ririha have brought peace to Atland and Valghia through an
+        alliance. Now supplies run low, and the people need answers. Kaina, Ririha,
+        and their small party set out to cross the snow in search of the great orbital
+        spire tree. This is the first step to saving their people. Join Kaina on an
+        expedition to save mankind!","popularity":11.803,"poster_path":"/tknSJyInVeBZhaIUHlzPpqA45Ej.jpg","release_date":"2023-10-13","title":"Kaina
+        of the Great Snow Sea: Star Sage","video":false,"vote_average":6.0,"vote_count":4},{"adult":false,"backdrop_path":"/1hvi34MsgwK9WOQlCX7bV0vOjVH.jpg","genre_ids":[12,16,35,14],"id":433145,"original_language":"ja","original_title":"映画
         妖怪ウォッチ 空飛ぶクジラとダブル世界の大冒険だニャン！","overview":"A giant whale appears and flies
         above Sakura New Town. With the whale’s sound of crying, some changes occur
-        to Kenta Amano and Yokai.","popularity":9.266,"poster_path":"/fiVQhYmFW5GXw0fsPZ5hgCdDzZv.jpg","release_date":"2016-12-17","title":"Yo-kai
+        to Kenta Amano and Yokai.","popularity":6.527,"poster_path":"/fiVQhYmFW5GXw0fsPZ5hgCdDzZv.jpg","release_date":"2016-12-17","title":"Yo-kai
         Watch: The Movie - The Great Adventure of the Flying Whale \u0026 the Double
-        World, Meow!","video":false,"vote_average":7.2,"vote_count":41},{"adult":false,"backdrop_path":"/fCrErWTy5YXrzN3NbDoolHwB4b.jpg","genre_ids":[10751,12,16,878,14],"id":52795,"original_language":"ja","original_title":"映画ドラえもん
-        のび太の新魔界大冒険","overview":"When Nobita turned the world into a world with magic
-        with the what-if-telephone-booth-gadget, He and his world needed to defeat
-        the threat that became reality in this world.","popularity":14.155,"poster_path":"/kg0NypyGzEPpE3FUFcrD6egbSb3.jpg","release_date":"2007-03-10","title":"Doraemon:
-        Nobita''s New Great Adventure Into the Underworld - The Seven Magic Users","video":false,"vote_average":7.0,"vote_count":63},{"adult":false,"backdrop_path":"/lrNKm3HNvGdZoAfiBKu7b04FLHN.jpg","genre_ids":[18],"id":316029,"original_language":"en","original_title":"The
-        Greatest Showman","overview":"The story of American showman P.T. Barnum, founder
-        of the circus that became the famous traveling Ringling Bros. and Barnum \u0026
-        Bailey Circus.","popularity":41.241,"poster_path":"/b9CeobiihCx1uG1tpw8hXmpi7nm.jpg","release_date":"2017-12-20","title":"The
-        Greatest Showman","video":false,"vote_average":7.902,"vote_count":9034},{"adult":false,"backdrop_path":"/1W1DzCd2MfsF5Z6WQ5AUaTgSPFB.jpg","genre_ids":[16,28,80,9648,12],"id":573364,"original_language":"ja","original_title":"名探偵コナン
+        World, Meow!","video":false,"vote_average":7.2,"vote_count":41},{"adult":false,"backdrop_path":"/dnpSUzbvUy1sULcLddMMpUXsCAo.jpg","genre_ids":[28,18,35,12],"id":199584,"original_language":"ko","original_title":"은밀하게
+        위대하게","overview":"Three elite North Korean sleeper agents live under cover
+        for so long that they believe their cover stories are their real identities.
+        They are shocked when they are ordered to kill one another or face death at
+        the hands of an elite hit team.","popularity":11.712,"poster_path":"/n5ESZzOGxnmugkLvyd45wOsn0mg.jpg","release_date":"2013-06-05","title":"Secretly,
+        Greatly","video":false,"vote_average":7.003,"vote_count":185},{"adult":false,"backdrop_path":"/ugh4Bivk6dcLXz2bkwuotm9feYT.jpg","genre_ids":[18,10402],"id":98328,"original_language":"en","original_title":"The
+        Great Caruso","overview":"Enrico Caruso''s only passion is to sing. For that,
+        he leaves his hometown of Naples, Italy, and travels to America to sing for
+        the Metropolitan Opera. At first, his lack of education and poor background
+        make him an outcast in the high-class opera world. Eventually, his voice wins
+        him both fans and the hand of his love, Dorothy. But his nonstop pace and
+        desire to perform at any cost eventually take their toll on the singer''s
+        health.","popularity":5.119,"poster_path":"/mKqAEKW8GzO98xlQ0JWrXAFnutS.jpg","release_date":"1951-04-16","title":"The
+        Great Caruso","video":false,"vote_average":5.7,"vote_count":18},{"adult":false,"backdrop_path":"/gKfhkw4zZPJJk7wuQymKtuc5NuX.jpg","genre_ids":[16,12,10751,14],"id":44683,"original_language":"en","original_title":"Tinker
+        Bell and the Great Fairy Rescue","overview":"During a summer stay on the mainland,
+        Tinker Bell is accidentally discovered while investigating a little girl''s
+        fairy house. As the other fairies, led by the brash Vidia, launch a daring
+        rescue in the middle of a fierce storm, Tink develops a special bond with
+        the lonely, little girl.","popularity":37.163,"poster_path":"/fFZGJQU2LcViBC5SAwYrxHRvBW9.jpg","release_date":"2010-07-29","title":"Tinker
+        Bell and the Great Fairy Rescue","video":false,"vote_average":6.73,"vote_count":910},{"adult":false,"backdrop_path":"/1W1DzCd2MfsF5Z6WQ5AUaTgSPFB.jpg","genre_ids":[16,80,9648,12],"id":573364,"original_language":"ja","original_title":"名探偵コナン
         エピソード\"ONE\" 小さくなった名探偵","overview":"Two-hour remake of the original 1st episode,
         in celebration of the anime celebrating 20 years in broadcast. The special
         retells what happened on the day Shinichi was transformed into the body of
         a child. The special includes new scenes that weren''t in the original manga
-        or the first anime episode.","popularity":9.24,"poster_path":"/eQSCld1z6sZZNdVAPN56RHEJA3.jpg","release_date":"2016-12-09","title":"Detective
-        Conan: Episode One - The Great Detective Turned Small","video":false,"vote_average":7.543,"vote_count":23},{"adult":false,"backdrop_path":"/n65ypE18pRsYjrYbCwEtiSgNEpx.jpg","genre_ids":[16,35,12,14],"id":128871,"original_language":"ja","original_title":"クレヨンしんちゃん
-        ヘンダーランドの大冒険","overview":"The Futaba Kindergarten kids are so excited for their
-        trip to the Henderland amusement park, but Shin-chan soon learns there are
-        evil forces at play!","popularity":10.822,"poster_path":"/eD4OjlukN78DNNZ70fL2ItRQoNQ.jpg","release_date":"1996-04-13","title":"Crayon
-        Shin-chan: Great Adventure In Henderland","video":false,"vote_average":7.3,"vote_count":43},{"adult":false,"backdrop_path":"/iiZP2Jfj0FAD2ErNaEAEsFBcz7j.jpg","genre_ids":[16],"id":105444,"original_language":"ja","original_title":"ドラえもん
+        or the first anime episode.","popularity":8.202,"poster_path":"/eQSCld1z6sZZNdVAPN56RHEJA3.jpg","release_date":"2017-02-08","title":"Detective
+        Conan: Episode One - The Great Detective Turned Small","video":false,"vote_average":7.6,"vote_count":28},{"adult":false,"backdrop_path":"/fVleNJ69uSXRonHYyT1jGnE5f6v.jpg","genre_ids":[28,12,878],"id":1196495,"original_language":"ja","original_title":"仮面ライダー
+        THE WINTER MOVIE ガッチャード＆ギーツ 最強ケミー★ガッチャ大作戦","overview":"Ace, Houtaro, and their
+        allies participate in a new edition of the Desire Grand Prix kickstarted by
+        the rogue Chemy X Wizard, who has involved the Jyamato in its diabolical plans.
+        This is the 14th entry of the Kamen Rider winter crossover movies with this
+        entry feature the cast of Kamen Rider Gotchard and Kamen Rider Geats.","popularity":6.395,"poster_path":"/kmRtuHki8WAIzt9zkF849WbOws5.jpg","release_date":"2023-12-22","title":"Kamen
+        Rider THE WINTER MOVIE: Gotchard \u0026 Geats Strongest Chemy★Great Gotcha
+        Operation","video":false,"vote_average":8.0,"vote_count":1},{"adult":false,"backdrop_path":"/k1RS1StytUit8YsDsXBSBS7o6VF.jpg","genre_ids":[18,28,80],"id":238010,"original_language":"ko","original_title":"친구
+        2","overview":"Joon-seok is sent to prison for his involvement in Dong-soo''s
+        death. He meets Dong-soo''s son in prison, keeps his identity a secret, and
+        agrees to join forces when he is released. All of their plans fall apart when
+        Sung-hoon finds out the truth.","popularity":9.241,"poster_path":"/70UQdCtO53xstSuWrTiQQg7wVyB.jpg","release_date":"2013-11-14","title":"Friend:
+        The Great Legacy","video":false,"vote_average":6.8,"vote_count":30},{"adult":false,"backdrop_path":"/wF7AUbAux8syMPkYhLE3H3V7yTL.jpg","genre_ids":[16,12,10751,14,878],"id":161699,"original_language":"ja","original_title":"ドラえもん
+        のび太の魔界大冒険","overview":"Nobita requests of Doraemon the Moshimo-box and wishes
+        for the world to become a place where the use of magic is possible. Witchcraft
+        replaces science and technology and everyone makes use of it on their daily
+        lives, except for Nobita, who, like usual, isn''t very good at conjuring spells.
+        Frustrated, he plans on returning things to their past state, but his mother
+        threw the Moshimo-box away.","popularity":9.268,"poster_path":"/eeFPZv9XwlGiM3myQq3thjYlgmp.jpg","release_date":"1984-03-17","title":"Doraemon:
+        Nobita''s Great Adventure in the World of Magic","video":false,"vote_average":7.1,"vote_count":22},{"adult":false,"backdrop_path":"/iiZP2Jfj0FAD2ErNaEAEsFBcz7j.jpg","genre_ids":[16,10751],"id":105444,"original_language":"ja","original_title":"ドラえもん
         のび太の南海大冒険","overview":"The search for documentation about the sea for a school
         work will make the magic door of Doraemon open and take Nobita to Shizuka,
         Gian and Sueno in the deep ocean. This time our friends embark on a huge and
@@ -290,54 +328,30 @@ http_interactions:
         treasures. What nobody imagines is that a distortion in the line of space-time
         will lead them to the seventeenth century amid a great storm that will make
         them wreck and where Doraemon loses its magic pocket. No time to lose, our
-        friends must find a way out. Will they succeed?","popularity":16.026,"poster_path":"/7wAQPPC4XLMvAvwCvR0k6V711my.jpg","release_date":"1998-03-07","title":"Doraemon:
-        Nobita''s Great Adventure in the South Seas","video":false,"vote_average":6.6,"vote_count":55},{"adult":false,"backdrop_path":"/ydcLVC25nKhSZOWFR4q68tMdJst.jpg","genre_ids":[10751,16,12,35,14],"id":412869,"original_language":"ja","original_title":"映画
-        妖怪ウォッチ エンマ大王と5つの物語だニャン！","overview":"Nate, Whisper, Jibanyan, Hailey, USApyon,
-        and all of their Yo-kai friends embark on five unique adventures that all
-        end up tied together in the end.","popularity":7.98,"poster_path":"/wHM16IGtPOjOiyERNsIukGQhWPe.jpg","release_date":"2015-12-19","title":"Yo-kai
-        Watch: The Movie - The Great King Enma and the Five Tales, Meow!","video":false,"vote_average":7.5,"vote_count":31},{"adult":false,"backdrop_path":"/5cnbmWWnzC2L0CbOYZDeCWbHHJP.jpg","genre_ids":[99],"id":324558,"original_language":"en","original_title":"X-Rated:
-        The Greatest Adult Movies of All Time","overview":"The evolution of adult
-        cinema through the most influential films in history, a journey that begins
-        in the 1970s and ends nowadays. An in-depth analysis of the success of the
-        most prestigious erotic films, their impact on industry and society, and their
-        influence on cinema and contemporary culture.","popularity":29.38,"poster_path":"/uYzHkzZPp84B7nHOKaJZWjyGFUL.jpg","release_date":"2015-02-06","title":"X-Rated:
-        The Greatest Adult Movies of All Time","video":false,"vote_average":6.242,"vote_count":165},{"adult":false,"backdrop_path":"/dnpSUzbvUy1sULcLddMMpUXsCAo.jpg","genre_ids":[28,18,35,12],"id":199584,"original_language":"ko","original_title":"은밀하게
-        위대하게","overview":"Three elite North Korean sleeper agents live under cover
-        for so long that they believe their cover stories are their real identities.
-        They are shocked when they are ordered to kill one another or face death at
-        the hands of an elite hit team.","popularity":10.57,"poster_path":"/n5ESZzOGxnmugkLvyd45wOsn0mg.jpg","release_date":"2013-06-05","title":"Secretly,
-        Greatly","video":false,"vote_average":7.1,"vote_count":172},{"adult":false,"backdrop_path":"/gXnKdxZV3GptioZfrRT7looJkuo.jpg","genre_ids":[],"id":1224226,"original_language":"zh","original_title":"天降大任","overview":"","popularity":2.299,"poster_path":"/sQG6cOVaN41OP55GUxjP2HLpClG.jpg","release_date":"2024-01-06","title":"The
-        Monkey King: Heaven''s Great Mission","video":false,"vote_average":2.0,"vote_count":1},{"adult":false,"backdrop_path":"/jHN8hldnPvPR6a3G5YeaEov2nNa.jpg","genre_ids":[18,9648],"id":83721,"original_language":"zh","original_title":"大魔術師","overview":"In
-        the years after the Revolution, China broken up into fiefdoms held by warlords,
-        who are busy fighting each other. One warlord has imprisoned a girl and wants
-        her to be his seventh wife, but he''s too honorable to force her. The local
-        revolutionaries wants to kill him and bring back the republic. But when a
-        stranger returns from abroad with mastery of magic to recover the girl he
-        loved, who is tricking whom and who will win at the end?","popularity":6.764,"poster_path":"/96k1xo0HLv0uzwefbUoAafaXBJg.jpg","release_date":"2011-12-22","title":"The
-        Great Magician","video":false,"vote_average":6.14,"vote_count":57},{"adult":false,"backdrop_path":"/d2ex7YczfUwC8kR7iaVlTcZkNTA.jpg","genre_ids":[16,28,12,878],"id":85311,"original_language":"ja","original_title":"UFOロボ
-        グレンダイザー対グレートマジンガー","overview":"Alien invaders take over Great Mazinger who
-        is at the entrance of a museum next to Mazinger Z as symbols of peace. Grendizer
-        fights the evil invaders and Great Mazinger is recovered.  When the Vegan
-        empire dispatches a new general to oversee the takeover of Earth, he quickly
-        manages to capture Koji Kabuto and, learning of Great Mazinger through interrogation,
-        quickly commandeers it from a museum where it was kept as a symbol of peace.  It
-        is now up to Duke Fleed aboard Grendizer to stop humanity''s former defender
-        from becoming its destroyer.","popularity":6.999,"poster_path":"/gmFzkzaD4PG0MbP45KdopYMnzff.jpg","release_date":"1976-03-20","title":"UFO
-        Robot Grendizer vs. Great Mazinger","video":false,"vote_average":5.9,"vote_count":14},{"adult":false,"backdrop_path":"/fcH7FM74GoHgOUnKjpGAoKOxWvY.jpg","genre_ids":[18,35,10752],"id":55823,"original_language":"it","original_title":"La
-        grande guerra","overview":"Italy, 1916. Oreste Jacovacci and Giovanni Busacca
-        are called, as all the Italian youths, to serve the army in the WWI. They
-        both try in every way to avoid serving the army.","popularity":6.771,"poster_path":"/aDvKsUb5y7GMNMz2HHNtuGww5t8.jpg","release_date":"1959-10-28","title":"The
-        Great War","video":false,"vote_average":8.167,"vote_count":327},{"adult":false,"backdrop_path":"/kJo3UCGldULLjrEK0XPOtS6FTl6.jpg","genre_ids":[18,35],"id":1181865,"original_language":"zh","original_title":"二手杰作","overview":"After
-        an accident puts his son in a coma, his father writes a fake suicide note
-        creating a situation that spirals out of control.","popularity":1.598,"poster_path":"/4nnaovllxETxPv88w1MgCmHMRbJ.jpg","release_date":"2023-10-27","title":"World''s
-        Greatest Dad","video":false,"vote_average":6.571,"vote_count":7},{"adult":false,"backdrop_path":"/dyZb0VGLvN8Md8caGZ3fNko4zy2.jpg","genre_ids":[35],"id":1000572,"original_language":"fr","original_title":"Les
-        Choses simples","overview":"Vincent is a famous successful entrepreneur. One
-        day, a car breakdown on a mountain road temporarily interrupts his frantic
-        lifestyle. Pierre, who lives apart from the modern world in the middle of
-        sublime nature, comes to his aid and offers him his hospitality. The meeting
-        between these two men, who are opposites will upset their respective beliefs
-        and they will find themselves laughing. The question is...deep down, are they
-        really each living the lives they want to live?","popularity":10.063,"poster_path":"/70GmOX3yhKETP4KzXmeH3OQOQ0h.jpg","release_date":"2023-02-22","title":"A
-        Great Friend","video":false,"vote_average":6.404,"vote_count":68}],"total_pages":184,"total_results":3675}'
-  recorded_at: Wed, 14 Feb 2024 01:13:57 GMT
+        friends must find a way out. Will they succeed?","popularity":9.679,"poster_path":"/7wAQPPC4XLMvAvwCvR0k6V711my.jpg","release_date":"1998-03-07","title":"Doraemon:
+        Nobita''s Great Adventure in the South Seas","video":false,"vote_average":6.545,"vote_count":56},{"adult":false,"backdrop_path":null,"genre_ids":[16],"id":171899,"original_language":"ja","original_title":"キャプテン翼
+        ヨーロッパ大決戦","overview":"The first Captain Tsubasa movie is about a match between
+        an \"All Europe Boy Soccer Team\" and an \"All Japan Boy Soccer Team\" and
+        takes place at the end of the first TV series. When the Japanese team arrives
+        in Europe they meet incredible players with skills and strength they never
+        had to face before.","popularity":6.09,"poster_path":"/cRjrQjMQ0RxvK90vtitTRwDgMbR.jpg","release_date":"1985-07-13","title":"Captain
+        Tsubasa Movie 01: The Great Competition of Europe","video":false,"vote_average":7.5,"vote_count":51},{"adult":false,"backdrop_path":"/d9IXxTrra12erdjVXoWUhuTVzTH.jpg","genre_ids":[10752,18,36],"id":31217,"original_language":"ja","original_title":"人間の條件　第１部純愛篇／第２部激怒篇","overview":"After
+        handing in a report on the treatment of Chinese colonial labor, Kaji is offered
+        the post of labor chief at a large mining operation in Manchuria, which also
+        grants him exemption from military service. He accepts, and moves to Manchuria
+        with his newly-wed wife Michiko, but when he tries to put his ideas of more
+        humane treatment into practice, he finds himself at odds with scheming officials,
+        cruel foremen, and the military police.","popularity":28.69,"poster_path":"/oWCFLELvRjNj1mbsCDOKWRcnmD2.jpg","release_date":"1959-01-15","title":"The
+        Human Condition I: No Greater Love","video":false,"vote_average":8.043,"vote_count":231},{"adult":false,"backdrop_path":"/n65ypE18pRsYjrYbCwEtiSgNEpx.jpg","genre_ids":[16,35,12,14],"id":128871,"original_language":"ja","original_title":"クレヨンしんちゃん
+        ヘンダーランドの大冒険","overview":"The Futaba Kindergarten kids are so excited for their
+        trip to the Henderland amusement park, but Shin-chan soon learns there are
+        evil forces at play!","popularity":14.666,"poster_path":"/eD4OjlukN78DNNZ70fL2ItRQoNQ.jpg","release_date":"1996-04-13","title":"Crayon
+        Shin-chan: Great Adventure In Henderland","video":false,"vote_average":7.2,"vote_count":49},{"adult":false,"backdrop_path":"/bgPkOllkc6tSLPTGSySm9hetMFs.jpg","genre_ids":[18,80],"id":1097175,"original_language":"pt","original_title":"Grande
+        Sertão","overview":"In the concrete jungles of lawless futuristic Brazil,
+        enemies spout slam poetry in duels as their movements remind us of parkour.
+        The adrenaline rush breaks into three timelines: the past introduces teenager
+        Riobaldo and handsome Diadorim, the present depicts a bloody clash and reveals
+        sexual identities, and the future exposes Riobaldo’s deal with the devil.","popularity":4.204,"poster_path":"/b7d7pPqg6v0xOx8dETULahYZkZ6.jpg","release_date":"2024-06-06","title":"Great
+        Sertão","video":false,"vote_average":8.5,"vote_count":2}],"total_pages":195,"total_results":3900}'
+  recorded_at: Tue, 10 Sep 2024 01:17:16 GMT
 recorded_with: VCR 6.1.0

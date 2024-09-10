@@ -31,7 +31,7 @@ RSpec.describe 'Movies Show Page' do
     end
 
     within '#summary-section' do
-      expect(page).to have_content('Framed in the 1940s for the double murder')
+      expect(page).to have_content('Imprisoned in the 1940s for the double murder')
     end
 
     within '#cast-section' do
@@ -41,7 +41,7 @@ RSpec.describe 'Movies Show Page' do
     end
 
     within '#reviews-section' do
-      expect(page).to have_content('12 Review(s)')
+      expect(page).to have_content('14 Review(s)')
       expect(page).to have_content('Author: elshaarawy')
       expect(page).to have_content('very good movie 9.5/10')
     end

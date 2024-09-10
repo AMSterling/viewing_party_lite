@@ -149,7 +149,7 @@ Database:
 <!-- INSTALLATION -->
 ### Installation
 
-1. Get a free API Key at [TMDB](https://www.themoviedb.org/settings/api)
+1. Get a free API Key at [![TMDB][TMDB]][TMDB-API-url]
 2. Clone the repo
    ```sh
    git clone https://github.com/AMSterling/viewing_party_lite.git
@@ -309,6 +309,10 @@ _For more examples, please refer to the [Documentation](https://backend.turing.e
 
 [Tailwind]: https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
 [Tailwind-url]: https://tailwindcss.com/
+
+[TMDB]: https://img.shields.io/badge/The%20Movie%20Database-01B4E4.svg?style=for-the-badge&logo=The-Movie-Database&logoColor=white
+[TMDB-url]: https://www.themoviedb.org
+[TMDB-API-url]: https://developer.themoviedb.org/docs/getting-started
 
 [Turing]: https://custom-icon-badges.demolab.com/badge/Turing-DCDCDC?style=for-the-badge&logo=turing_school
 [Turing-url]: https://turing.edu/

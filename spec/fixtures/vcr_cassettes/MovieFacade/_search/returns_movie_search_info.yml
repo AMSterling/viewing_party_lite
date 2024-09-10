@@ -20,41 +20,39 @@ http_interactions:
     headers:
       Content-Type:
       - application/json;charset=utf-8
-      Transfer-Encoding:
-      - chunked
+      Content-Length:
+      - '12990'
       Connection:
       - keep-alive
       Date:
-      - Wed, 14 Feb 2024 01:09:22 GMT
+      - Tue, 10 Sep 2024 01:17:10 GMT
       Server:
       - openresty
       Cache-Control:
-      - public, max-age=22034
+      - public, max-age=745
       X-Memc:
       - HIT
       X-Memc-Key:
       - 71f34e23863da09d88cf54c2a287d04b
       X-Memc-Age:
-      - '4278'
+      - '24132'
       X-Memc-Expires:
-      - '22034'
+      - '745'
       Etag:
-      - W/"d16851701cbbb20ffd48f9c66cb8e881"
+      - W/"2b79d7138a24ae642e8e4a9a82c8b863"
       Vary:
-      - Accept-Encoding
+      - Accept-Encoding,accept-encoding
       - Origin
       X-Cache:
-      - Hit from cloudfront
+      - Miss from cloudfront
       Via:
-      - 1.1 39c272e966ab7a6f8a68d2222276a954.cloudfront.net (CloudFront)
+      - 1.1 d09fd0ac0a8733df98f134da74eec098.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
-      - DEN52-C1
+      - DEN52-P2
       Alt-Svc:
       - h3=":443"; ma=86400
       X-Amz-Cf-Id:
-      - pCqsHzUtgGS5iFI3T_9bzQrUCXW7Zg9cP4XzsDgxPXbUZDGZTU0T8w==
-      Age:
-      - '270'
+      - tVJrpJ1eF_0lpcZycya7CWDF9OhGY9nYQ93Zn3wR-gox_qb_CP75fw==
     body:
       encoding: UTF-8
       string: '{"page":1,"results":[{"adult":false,"backdrop_path":null,"genre_ids":[80],"id":392468,"original_language":"en","original_title":"Wayne","overview":"Shadowed
@@ -63,42 +61,57 @@ http_interactions:
         in the bowels of a dilapidated theatre where he works the night shift as a
         janitor. With the help of his do-gooder social worker, Wayne is committed
         to controlling his temper, but when a gang of criminals push him too far,
-        he chooses instead to utilize it.","popularity":0.6,"poster_path":null,"release_date":"2009-06-03","title":"Wayne","video":false,"vote_average":7.0,"vote_count":1},{"adult":false,"backdrop_path":null,"genre_ids":[],"id":649175,"original_language":"en","original_title":"Wayne","overview":"After
+        he chooses instead to utilize it.","popularity":0.329,"poster_path":null,"release_date":"2009-06-03","title":"Wayne","video":false,"vote_average":7.0,"vote_count":1},{"adult":false,"backdrop_path":null,"genre_ids":[],"id":649175,"original_language":"en","original_title":"Wayne","overview":"After
         50 years of marriage, Wayne, an octogenarian with Alzheimer''s, seeks a forbidden
-        love from his youth.","popularity":0.6,"poster_path":"/zX3blURaIze8gtAkp3Uvgr9xwry.jpg","release_date":"2015-06-21","title":"Wayne","video":false,"vote_average":0.0,"vote_count":0},{"adult":false,"backdrop_path":"/lELiuCg7dGY9cNWtYQTuPu41iYE.jpg","genre_ids":[99],"id":535222,"original_language":"en","original_title":"Wayne","overview":"Wayne
+        love from his youth.","popularity":1.153,"poster_path":"/zX3blURaIze8gtAkp3Uvgr9xwry.jpg","release_date":"2015-06-21","title":"Wayne","video":false,"vote_average":0.0,"vote_count":0},{"adult":false,"backdrop_path":"/lELiuCg7dGY9cNWtYQTuPu41iYE.jpg","genre_ids":[99],"id":535222,"original_language":"en","original_title":"Wayne","overview":"Wayne
         tells the exhilarating story of 1987 World Motorcycle Grand Prix Champion
         Wayne Gardner''s triumphant, improbable journey from a 5-dollar dirt bike
-        to the international summit of his sport.","popularity":2.202,"poster_path":"/asq5fP7bKhfuTynhsmUdgs0PvJy.jpg","release_date":"2018-09-06","title":"Wayne","video":false,"vote_average":6.0,"vote_count":4},{"adult":false,"backdrop_path":"/lbYqyfG6C3VcKPfKXOenn1aXUx5.jpg","genre_ids":[35,10402],"id":8872,"original_language":"en","original_title":"Wayne''s
+        to the international summit of his sport.","popularity":2.147,"poster_path":"/asq5fP7bKhfuTynhsmUdgs0PvJy.jpg","release_date":"2018-09-06","title":"Wayne","video":false,"vote_average":6.0,"vote_count":4},{"adult":false,"backdrop_path":"/wvHA1If9yY7vHKryPwxcW9fr3MZ.jpg","genre_ids":[28,35],"id":1316937,"original_language":"en","original_title":"Wayne","overview":"After
+        the death of his father, a good-hearted 16-year-old vigilante sets out with
+        his new friend to get back his dad''s stolen ''79 Trans Am.","popularity":2.892,"poster_path":"/anrtMG9aYzE3RLWy6gdDOqG5q58.jpg","release_date":"2019-01-16","title":"Wayne","video":false,"vote_average":6.0,"vote_count":1},{"adult":false,"backdrop_path":"/jI89CYhH2b0feShqNzj9whEVxTe.jpg","genre_ids":[35,10402],"id":8873,"original_language":"en","original_title":"Wayne''s
+        World 2","overview":"A message from Jim Morrison in a dream prompts cable
+        access TV stars Wayne and Garth to put on a rock concert, \"Waynestock,\"
+        with Aerosmith as headliners. But amid the preparations, Wayne frets that
+        a record producer is putting the moves on his girlfriend, Cassandra, while
+        Garth handles the advances of mega-babe Honey Hornee.","popularity":14.506,"poster_path":"/xRzMaHvSJEBdqEVrscOnfyyCj2Y.jpg","release_date":"1993-12-10","title":"Wayne''s
+        World 2","video":false,"vote_average":6.081,"vote_count":1020},{"adult":false,"backdrop_path":"/lbYqyfG6C3VcKPfKXOenn1aXUx5.jpg","genre_ids":[35,10402],"id":8872,"original_language":"en","original_title":"Wayne''s
         World","overview":"The adventures of two amiably aimless metal-head friends,
         Wayne and Garth. From Wayne''s basement, the pair broadcast a talk-show called
         \"Wayne''s World\" on local public access television. The show comes to the
         attention of a sleazy network executive who wants to produce a big-budget
         version of \"Wayne''s World\"—and he also wants Wayne''s girlfriend, a rock
         singer named Cassandra. Wayne and Garth have to battle the executive not only
-        to save their show, but also Cassandra.","popularity":13.474,"poster_path":"/nhQtlLVl2z5ywu2uDnXjVqi08On.jpg","release_date":"1992-02-14","title":"Wayne''s
-        World","video":false,"vote_average":6.7,"vote_count":2086},{"adult":false,"backdrop_path":null,"genre_ids":[99],"id":436201,"original_language":"pt","original_title":"O
-        Homem que Matou John Wayne","overview":"","popularity":1.4,"poster_path":"/nvFrqfbc9kEzb4poxoHYCbSdR5Y.jpg","release_date":"2017-01-20","title":"The
-        Man Who Killed John Wayne","video":false,"vote_average":5.0,"vote_count":1},{"adult":false,"backdrop_path":"/jI89CYhH2b0feShqNzj9whEVxTe.jpg","genre_ids":[35,10402],"id":8873,"original_language":"en","original_title":"Wayne''s
-        World 2","overview":"A message from Jim Morrison in a dream prompts cable
-        access TV stars Wayne and Garth to put on a rock concert, \"Waynestock,\"
-        with Aerosmith as headliners. But amid the preparations, Wayne frets that
-        a record producer is putting the moves on his girlfriend, Cassandra, while
-        Garth handles the advances of mega-babe Honey Hornee.","popularity":15.863,"poster_path":"/xRzMaHvSJEBdqEVrscOnfyyCj2Y.jpg","release_date":"1993-12-10","title":"Wayne''s
-        World 2","video":false,"vote_average":6.084,"vote_count":969},{"adult":false,"backdrop_path":"/1P0vQoZYoMG1LvtHKgLl6pV2XQL.jpg","genre_ids":[99],"id":653831,"original_language":"fr","original_title":"John
+        to save their show, but also Cassandra.","popularity":23.069,"poster_path":"/nhQtlLVl2z5ywu2uDnXjVqi08On.jpg","release_date":"1992-02-14","title":"Wayne''s
+        World","video":false,"vote_average":6.702,"vote_count":2182},{"adult":false,"backdrop_path":null,"genre_ids":[99],"id":483869,"original_language":"de","original_title":"John
+        Wayne - Ein Leben für den Film","overview":"Recap of The Duke''s career from
+        its beginning in the silent era up to his final film \"The Shootist\".","popularity":2.103,"poster_path":"/wH7dZFgVd8oKB9sNToVTZDKyU30.jpg","release_date":"2000-01-01","title":"John
+        Wayne-A Life on Film","video":false,"vote_average":0.0,"vote_count":0},{"adult":false,"backdrop_path":null,"genre_ids":[99],"id":436201,"original_language":"pt","original_title":"O
+        Homem que Matou John Wayne","overview":"","popularity":2.933,"poster_path":"/nvFrqfbc9kEzb4poxoHYCbSdR5Y.jpg","release_date":"2017-01-20","title":"The
+        Man Who Killed John Wayne","video":false,"vote_average":5.0,"vote_count":1},{"adult":false,"backdrop_path":"/1P0vQoZYoMG1LvtHKgLl6pV2XQL.jpg","genre_ids":[99],"id":653831,"original_language":"fr","original_title":"John
         Wayne - L''Amérique à tout prix","overview":"This is the story of a man who
         climbed the Hollywood ladder, one rung at a time, until he reached the top
-        and became the most popular American actor of his era.","popularity":1.976,"poster_path":"/oTwOCKk8sXaJQDNy0uqS1klkBfT.jpg","release_date":"2019-12-08","title":"John
-        Wayne - America at All Costs","video":false,"vote_average":6.571,"vote_count":7},{"adult":false,"backdrop_path":null,"genre_ids":[],"id":1184044,"original_language":"en","original_title":"One
+        and became the most popular American actor of his era.","popularity":2.407,"poster_path":"/oTwOCKk8sXaJQDNy0uqS1klkBfT.jpg","release_date":"2019-12-08","title":"John
+        Wayne - America at All Costs","video":false,"vote_average":6.6,"vote_count":7},{"adult":false,"backdrop_path":null,"genre_ids":[],"id":1184044,"original_language":"en","original_title":"One
         Fighting Irishman: Wayne M. Collins and the Tule Lake Segregation Center","overview":"One
         Fighting Irishman tells the story of San Francisco attorney Wayne M. Collins
         whose uncompromising defense of the Constitution drove him to spend twenty-three
         years representing over 5,000 of the most maligned Japanese Americans who
         renounced their American citizenship under duress while imprisoned at the
-        Tule Lake Segregation Center during World War II.","popularity":0.771,"poster_path":null,"release_date":"2023-10-28","title":"One
-        Fighting Irishman: Wayne M. Collins and the Tule Lake Segregation Center","video":false,"vote_average":0.0,"vote_count":0},{"adult":false,"backdrop_path":"/675fD1LUZ9fVLBzZBwKeLhwagxG.jpg","genre_ids":[53],"id":813910,"original_language":"en","original_title":"O
+        Tule Lake Segregation Center during World War II.","popularity":2.289,"poster_path":null,"release_date":"2023-10-28","title":"One
+        Fighting Irishman: Wayne M. Collins and the Tule Lake Segregation Center","video":false,"vote_average":6.0,"vote_count":1},{"adult":false,"backdrop_path":"/rtyhvrdpc38X5dyJAdZk5FpLdtT.jpg","genre_ids":[99],"id":1203135,"original_language":"en","original_title":"John
+        Wayne: Cowboys \u0026 Demons","overview":"John Wayne was a legendary actor
+        and an embodiment of America itself. While he played men who always do the
+        right thing on camera his real life is far more complicated.","popularity":2.517,"poster_path":"/fzzP8xHHkSck65FU1BUZNRFxx7u.jpg","release_date":"2023-03-23","title":"John
+        Wayne: Cowboys \u0026 Demons","video":false,"vote_average":0.0,"vote_count":0},{"adult":false,"backdrop_path":"/675fD1LUZ9fVLBzZBwKeLhwagxG.jpg","genre_ids":[53],"id":813910,"original_language":"en","original_title":"O
         Espelho","overview":"Fascinated by pop culture male figures, a man loses his
-        identity in the search to replicate them","popularity":0.6,"poster_path":"/5jo38ykqeeHFH8hZuTxKLfB63l.jpg","release_date":"2021-04-26","title":"I,
-        John Wayne","video":false,"vote_average":5.0,"vote_count":2},{"adult":false,"backdrop_path":"/ft6okqNxWd4M7gB2VRpLpylhqtA.jpg","genre_ids":[10402],"id":16377,"original_language":"en","original_title":"Jeff
+        identity in the search to replicate them","popularity":1.092,"poster_path":"/5jo38ykqeeHFH8hZuTxKLfB63l.jpg","release_date":"2021-04-26","title":"I,
+        John Wayne","video":false,"vote_average":5.0,"vote_count":2},{"adult":false,"backdrop_path":null,"genre_ids":[99],"id":616174,"original_language":"en","original_title":"John
+        Wayne Gacy: Defending a Monster","overview":"\"Sam, could you do me a favor?\"  A
+        seemingly simple request sparks the story that has now become part of America’s
+        true crime hall of fame - the journey of a young lawyer, fresh from the Public
+        Defender’s Office, whose first client in private practice turns out to be
+        the most evil serial killer in our nation''s history.","popularity":1.687,"poster_path":"/zti56ETt1Jy8YccD2KbVq86XiCe.jpg","release_date":"2019-07-25","title":"John
+        Wayne Gacy: Defending a Monster","video":false,"vote_average":7.0,"vote_count":2},{"adult":false,"backdrop_path":"/ft6okqNxWd4M7gB2VRpLpylhqtA.jpg","genre_ids":[10402],"id":16377,"original_language":"en","original_title":"Jeff
         Wayne''s Musical Version of The War of the Worlds: Live on Stage!","overview":"The
         live version of Jeff Wayne''s 1978 bestselling album was brought to the stage
         in 2006 as part of a sell-out tour of the UK. Filmed at London''s Wembley
@@ -106,8 +119,8 @@ http_interactions:
         incorporates performers from the original recording, including Justin Hayward,
         Chris Thompson and Wayne himself. There''s also audio and visual elements
         featuring Richard Burton, as well as the ten-piece Black Smoke Band and the
-        48-piece Ulladubulla Strings.","popularity":4.458,"poster_path":"/5z19r3tfjNPZ3UhW3lfYwKd3khn.jpg","release_date":"2006-11-06","title":"Jeff
-        Wayne''s Musical Version of The War of the Worlds: Live on Stage!","video":true,"vote_average":6.5,"vote_count":14},{"adult":false,"backdrop_path":"/idbjrl5yNwGqXfbFkerT4brnwZQ.jpg","genre_ids":[10402],"id":241428,"original_language":"en","original_title":"Jeff
+        48-piece Ulladubulla Strings.","popularity":7.379,"poster_path":"/5z19r3tfjNPZ3UhW3lfYwKd3khn.jpg","release_date":"2006-11-06","title":"Jeff
+        Wayne''s Musical Version of The War of the Worlds: Live on Stage!","video":true,"vote_average":6.767,"vote_count":15},{"adult":false,"backdrop_path":"/idbjrl5yNwGqXfbFkerT4brnwZQ.jpg","genre_ids":[10402],"id":241428,"original_language":"en","original_title":"Jeff
         Wayne''s Musical Version of the War of the Worlds - The New Generation: Alive
         on Stage!","overview":"In 1978 Jeff Wayne composed and produced one of the
         most ground-breaking and bestselling musical works of all time. In 2006 Jeff
@@ -119,12 +132,12 @@ http_interactions:
         Kerry Ellis, plus stunning new 3D holography and a 3-ton 35ft Martian Fighting
         Machine, it''s truly a musical multi-media extravaganza. Filmed Live at London''s
         O2 Arena, Jeff Wayne''s Musical Version of The War of The Worlds is a show
-        not to be missed!","popularity":3.426,"poster_path":"/epj1q8EWrJYUOpKHaLFA32sZ02T.jpg","release_date":"2013-11-28","title":"Jeff
+        not to be missed!","popularity":7.524,"poster_path":"/epj1q8EWrJYUOpKHaLFA32sZ02T.jpg","release_date":"2013-11-28","title":"Jeff
         Wayne''s Musical Version of the War of the Worlds - The New Generation: Alive
-        on Stage!","video":true,"vote_average":7.1,"vote_count":10},{"adult":false,"backdrop_path":"/o6kyJOn5fJyzUhEA1geBYKQqYiE.jpg","genre_ids":[35],"id":1179875,"original_language":"en","original_title":"Kountry
+        on Stage!","video":true,"vote_average":7.333,"vote_count":12},{"adult":false,"backdrop_path":"/o6kyJOn5fJyzUhEA1geBYKQqYiE.jpg","genre_ids":[35],"id":1179875,"original_language":"en","original_title":"Kountry
         Wayne: A Woman''s Prayer","overview":"Comedian Kountry Wayne delivers a rousing
         stand-up set about life as a dad of 10, how to know if a woman likes you and
-        why he keeps it real with Jesus.","popularity":1.882,"poster_path":"/zPMyrWIKi6lwippctIPIx1KPoy7.jpg","release_date":"2023-09-19","title":"Kountry
+        why he keeps it real with Jesus.","popularity":2.26,"poster_path":"/zPMyrWIKi6lwippctIPIx1KPoy7.jpg","release_date":"2023-09-19","title":"Kountry
         Wayne: A Woman''s Prayer","video":false,"vote_average":6.5,"vote_count":4},{"adult":false,"backdrop_path":"/1WCCbeiPEgzT6c04GrbPPLtOMk5.jpg","genre_ids":[28,18,10770],"id":142912,"original_language":"en","original_title":"Assault
         on the Wayne","overview":"The U.S. submarine Anthony Wayne is underway for
         a top-secret mission. Onboard is a highly classified device that will give
@@ -133,58 +146,27 @@ http_interactions:
         infiltrated by enemy agents. The commander is charged with trying to protect
         the device while ferreting out the enemy agents. Compounding matters is the
         state of the commander''s physical and mental condition, which is being questioned
-        by his crew.","popularity":0.721,"poster_path":"/kxHs940eQRrlMCkpVaryWi8gJr9.jpg","release_date":"1971-01-12","title":"Assault
-        on the Wayne","video":false,"vote_average":3.0,"vote_count":2},{"adult":false,"backdrop_path":null,"genre_ids":[99],"id":616174,"original_language":"en","original_title":"John
-        Wayne Gacy: Defending a Monster","overview":"\"Sam, could you do me a favor?\"  A
-        seemingly simple request sparks the story that has now become part of America’s
-        true crime hall of fame - the journey of a young lawyer, fresh from the Public
-        Defender’s Office, whose first client in private practice turns out to be
-        the most evil serial killer in our nation''s history.","popularity":2.05,"poster_path":"/zti56ETt1Jy8YccD2KbVq86XiCe.jpg","release_date":"2019-07-25","title":"John
-        Wayne Gacy: Defending a Monster","video":false,"vote_average":7.0,"vote_count":2},{"adult":false,"backdrop_path":"/bFYZLgEgxPuUtxoLYqS5e94c1H1.jpg","genre_ids":[99],"id":316671,"original_language":"en","original_title":"The
+        by his crew.","popularity":8.915,"poster_path":"/11vtVUaRsIEPbmbXVLIOuwz4NEL.jpg","release_date":"1971-01-12","title":"Assault
+        on the Wayne","video":false,"vote_average":3.0,"vote_count":2},{"adult":false,"backdrop_path":"/bFYZLgEgxPuUtxoLYqS5e94c1H1.jpg","genre_ids":[99],"id":316671,"original_language":"en","original_title":"The
         John Wayne Story: The Early Years","overview":"Film clips, trailers and rare
         photos combine to tell the story of John Wayne''s evolution from mild-mannered
         USC student Marion Morrison to the ultimate Western hero of the silver screen.
         Highlights include clips from his silent-movie debut, his first leading role,
         and his bizarre failed attempt to become a singing cowboy. Other excerpts
-        include scenes from Flying Tigers, The Quiet Man and his breakthrough, Stagecoach.","popularity":2.095,"poster_path":"/rSKvhqS1oCctkul6rYCuL48tlxw.jpg","release_date":"1993-02-04","title":"The
-        John Wayne Story: The Early Years","video":false,"vote_average":3.5,"vote_count":2},{"adult":false,"backdrop_path":"/e1nCA9fswMsNdkdaCkVjdbcGmuG.jpg","genre_ids":[16,10751,14],"id":88212,"original_language":"en","original_title":"Prep
-        \u0026 Landing Stocking Stuffer: Operation: Secret Santa","overview":"Wayne
-        and Lanny, now partners, are called by Magee to meet with a secret contact
-        – Mrs. Claus, who sends them on a new mission to retrieve a box from Santa’s
-        secret workshop. Later they sneak into Santa’s office while he is asleep,
-        using their high tech equipment from the previous film. Lanny’s expertise
-        at dressing the tree enables them to enter the hidden workshop where they
-        recover the box and escape just in time. But what is the box for?","popularity":30.581,"poster_path":"/9BCphvFuTMO1CkNXslrUmEZ4imh.jpg","release_date":"2010-12-07","title":"Prep
-        \u0026 Landing Stocking Stuffer: Operation: Secret Santa","video":false,"vote_average":6.5,"vote_count":100},{"adult":false,"backdrop_path":null,"genre_ids":[99],"id":78300,"original_language":"en","original_title":"Wayne
+        include scenes from Flying Tigers, The Quiet Man and his breakthrough, Stagecoach.","popularity":2.581,"poster_path":"/rSKvhqS1oCctkul6rYCuL48tlxw.jpg","release_date":"1993-02-04","title":"The
+        John Wayne Story: The Early Years","video":false,"vote_average":3.5,"vote_count":2},{"adult":false,"backdrop_path":null,"genre_ids":[99],"id":78300,"original_language":"en","original_title":"Wayne
         Gretzky: Above and Beyond","overview":"Once in a generation comes an athlete
         so gifted that he completely dominates his sport. In our generation that man
         is Wayne Gretzky. Gretzky is more than a hockey star, he is an inter-national
         sports hero. ABOVE AND BEYOND takes you behind the headlines to that frozen
-        river where his career began.","popularity":0.6,"poster_path":"/4clN3VSsdn0kuXDbTLnCHm0NJT5.jpg","release_date":"1990-08-31","title":"Wayne
+        river where his career began.","popularity":2.996,"poster_path":"/4clN3VSsdn0kuXDbTLnCHm0NJT5.jpg","release_date":"1990-08-31","title":"Wayne
         Gretzky: Above and Beyond","video":false,"vote_average":2.8,"vote_count":2},{"adult":false,"backdrop_path":null,"genre_ids":[],"id":1056834,"original_language":"en","original_title":"Kenny
         Wayne Shepherd Band Trouble Is 25","overview":"The five-time-Grammy-nominated
         guitarist Kenny Wayne Shepherd announces Trouble Is 25, a top-to-bottom reinterpretation
         of his seminal album Trouble Is, which struck the match that reignited modern
-        blues upon its release 25 years ago.","popularity":0.6,"poster_path":"/5D6LWABFtg5T61628o5sgSZzQps.jpg","release_date":"2022-11-20","title":"Kenny
-        Wayne Shepherd Band Trouble Is 25","video":false,"vote_average":0.0,"vote_count":0},{"adult":false,"backdrop_path":null,"genre_ids":[99],"id":775780,"original_language":"en","original_title":"John
-        Wayne''s ''The Alamo''","overview":"Documentary about the making of the John
-        Wayne film The Alamo (1960). Included are behind-the-scenes photos and footage
-        of the actual production of the film, clips from it and interviews with members
-        of the cast, crew and local residents in Brackettville, TX, where it was filmed.","popularity":0.674,"poster_path":null,"release_date":"1992-06-06","title":"John
-        Wayne''s ''The Alamo''","video":false,"vote_average":6.0,"vote_count":1},{"adult":false,"backdrop_path":null,"genre_ids":[99],"id":284330,"original_language":"en","original_title":"The
-        John Wayne Story - The Later Years","overview":"See the legendary John Wayne
-        at his greatest in two-fisted action, interviews, rare photos, and more, in
-        this documentary covering his screen career from Big Jim McLain to his final
-        film, The Shootist. Back in the saddle with Westerns like Hondo, The Searchers,
-        Rio Bravo, McLintock!, and Chisum, he also varied his output in The High and
-        the Mighty, Blood Alley, Wings of Eagles, McQ, and Brannigan. The Duke even
-        directed himself in The Alamo and The Green Berets, and finally won a long-awaited
-        Academy Award as the one-eyed lawman in True Grit, a role he repeated in Rooster
-        Cogburn. See Wayne promoting his protégé, James Arness, in Gunsmoke; making
-        public service appearances for the Red Cross, Christmas Seals, and the American
-        Cancer Society; and receiving his Oscar.","popularity":0.679,"poster_path":"/fxtTdkhgSeF1QwdmvMiZEyy43Qg.jpg","release_date":"1993-05-15","title":"The
-        John Wayne Story - The Later Years","video":false,"vote_average":0.0,"vote_count":0}],"total_pages":6,"total_results":107}'
-  recorded_at: Wed, 14 Feb 2024 01:13:52 GMT
+        blues upon its release 25 years ago.","popularity":0.049,"poster_path":"/5D6LWABFtg5T61628o5sgSZzQps.jpg","release_date":"2022-11-20","title":"Kenny
+        Wayne Shepherd Band Trouble Is 25","video":false,"vote_average":0.0,"vote_count":0}],"total_pages":6,"total_results":109}'
+  recorded_at: Tue, 10 Sep 2024 01:17:10 GMT
 - request:
     method: get
     uri: https://api.themoviedb.org/3/search/movie?api_key=<API Key>&page=2&query=wayne
@@ -205,44 +187,98 @@ http_interactions:
     headers:
       Content-Type:
       - application/json;charset=utf-8
-      Transfer-Encoding:
-      - chunked
+      Content-Length:
+      - '13351'
       Connection:
       - keep-alive
       Date:
-      - Wed, 14 Feb 2024 01:09:22 GMT
+      - Tue, 10 Sep 2024 01:17:10 GMT
       Server:
       - openresty
       Cache-Control:
-      - public, max-age=11081
+      - public, max-age=10694
       X-Memc:
       - HIT
       X-Memc-Key:
       - 42e280146677177660955a80dfc382b0
       X-Memc-Age:
-      - '12805'
+      - '14442'
       X-Memc-Expires:
-      - '11081'
+      - '10694'
       Etag:
-      - W/"24b5c353d680a096d33bb8f1ac86fa32"
+      - W/"36481dab4e1306f627996f434d6dc84a"
       Vary:
-      - Accept-Encoding
+      - Accept-Encoding,accept-encoding
       - Origin
       X-Cache:
-      - Hit from cloudfront
+      - Miss from cloudfront
       Via:
-      - 1.1 3f7e5e686bf8f19b9c786efbe99c7588.cloudfront.net (CloudFront)
+      - 1.1 77cfd797d789c3b8bc1b8f2f8a42a9c6.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
-      - DEN52-C1
+      - DEN52-P2
       Alt-Svc:
       - h3=":443"; ma=86400
       X-Amz-Cf-Id:
-      - UFWCgdOnGhWnGny6MEk9ORtJbqx-mcFjhWO7tMgPXgmhivPrxlf94w==
-      Age:
-      - '270'
+      - StjF6qFpxsawz2ohp1tkcjf_eUsGTBkIUtdgfBQ7f2NXJBDXoe_BpA==
     body:
       encoding: UTF-8
-      string: '{"page":2,"results":[{"adult":false,"backdrop_path":null,"genre_ids":[99,27],"id":780766,"original_language":"en","original_title":"The
+      string: '{"page":2,"results":[{"adult":false,"backdrop_path":null,"genre_ids":[99],"id":775780,"original_language":"en","original_title":"John
+        Wayne''s ''The Alamo''","overview":"Documentary about the making of the John
+        Wayne film The Alamo (1960). Included are behind-the-scenes photos and footage
+        of the actual production of the film, clips from it and interviews with members
+        of the cast, crew and local residents in Brackettville, TX, where it was filmed.","popularity":2.705,"poster_path":null,"release_date":"1992-06-06","title":"John
+        Wayne''s ''The Alamo''","video":false,"vote_average":6.0,"vote_count":1},{"adult":false,"backdrop_path":null,"genre_ids":[99],"id":284330,"original_language":"en","original_title":"The
+        John Wayne Story - The Later Years","overview":"See the legendary John Wayne
+        at his greatest in two-fisted action, interviews, rare photos, and more, in
+        this documentary covering his screen career from Big Jim McLain to his final
+        film, The Shootist. Back in the saddle with Westerns like Hondo, The Searchers,
+        Rio Bravo, McLintock!, and Chisum, he also varied his output in The High and
+        the Mighty, Blood Alley, Wings of Eagles, McQ, and Brannigan. The Duke even
+        directed himself in The Alamo and The Green Berets, and finally won a long-awaited
+        Academy Award as the one-eyed lawman in True Grit, a role he repeated in Rooster
+        Cogburn. See Wayne promoting his protégé, James Arness, in Gunsmoke; making
+        public service appearances for the Red Cross, Christmas Seals, and the American
+        Cancer Society; and receiving his Oscar.","popularity":1.202,"poster_path":"/fxtTdkhgSeF1QwdmvMiZEyy43Qg.jpg","release_date":"1993-05-15","title":"The
+        John Wayne Story - The Later Years","video":false,"vote_average":0.0,"vote_count":0},{"adult":false,"backdrop_path":null,"genre_ids":[18,10770],"id":760878,"original_language":"en","original_title":"Wayne
+        and Albert","overview":"When Wayne has to go and live with his grandfather
+        Albert, they both initially resent the arrangement. Hostilities soften when
+        they discover some common interests.","popularity":1.236,"poster_path":"/8vUHWvfJCoUiu7xpEbl5KoSkzv4.jpg","release_date":"1983-03-15","title":"Wayne
+        and Albert","video":false,"vote_average":0.0,"vote_count":0},{"adult":false,"backdrop_path":null,"genre_ids":[99],"id":872864,"original_language":"en","original_title":"A
+        Turning of the Earth: John Ford, John Wayne and ''The Searchers''","overview":"Documentary
+        on the making of \"The Searchers\" (1956), starring John Wayne and directed
+        by John Ford, with outtakes, behind-the-scenes footage and interviews with
+        many of the surviving cast and crew.","popularity":4.49,"poster_path":"/atkZ8IrLjCMYSqbqz87YZrqHrr5.jpg","release_date":"1998-01-01","title":"A
+        Turning of the Earth: John Ford, John Wayne and ''The Searchers''","video":false,"vote_average":0.0,"vote_count":0},{"adult":false,"backdrop_path":null,"genre_ids":[99],"id":281891,"original_language":"en","original_title":"Unlicensed
+        Cemetery: The John Wayne Gacy Murders","overview":"John Wayne Gacy was accused
+        and convicted of the brutal homosexual torture slayings of 33 young men and
+        boys...but many believe his total could be much higher. This video will explore
+        the many sides of John Wayne Gacy with case facts, profile interviews and
+        re-enactments that aren''t available anywhere.","popularity":0.631,"poster_path":"/mIOAf9dkbh1vZwTM6E35QtcPZLJ.jpg","release_date":"2002-01-01","title":"Unlicensed
+        Cemetery: The John Wayne Gacy Murders","video":false,"vote_average":10.0,"vote_count":1},{"adult":false,"backdrop_path":null,"genre_ids":[35],"id":49301,"original_language":"en","original_title":"Je
+        t''aime John Wayne","overview":"Belmonde lives in 1990s London as an iconic
+        , cool Frenchman modelled on the new wave cinema of the 1960s. Really he is
+        English and middle class – a fact that his family won''t let him forget!","popularity":2.931,"poster_path":"/t1pTaZ0PIYg0UUu3nAbeY5fs870.jpg","release_date":"2000-11-11","title":"Je
+        t''aime John Wayne","video":false,"vote_average":5.9,"vote_count":19},{"adult":false,"backdrop_path":null,"genre_ids":[],"id":101881,"original_language":"en","original_title":"Shirley
+        Pimple in the John Wayne Temple of Doom","overview":"A surreal action thriller
+        essay about the epic duel between the film''s heroine and the Hollywood legend
+        created around John Wayne (good vs. evil). Shirley Pimple, an apathetic 7-year-old
+        who looks remarkably like Shirley Temple, becomes the star of a propaganda
+        film factory, The John Wayne Institute for the Preservation of American Ideals.
+        When she reaches puberty, Shirley develops murderous tendencies, and the Institute
+        tries to keep her under control by attempting to make her a heroin addict,
+        but it doesn''t help. In her obsessive hatred of the Institute, Shirley takes
+        up with The Psychotic Weaklings, a group of pants-wetting, child molesters
+        against the anti-John Waynes. Written by Psychoticweakling","popularity":0.058,"poster_path":null,"release_date":"2000-04-13","title":"Shirley
+        Pimple in the John Wayne Temple of Doom","video":false,"vote_average":0.0,"vote_count":0},{"adult":false,"backdrop_path":null,"genre_ids":[],"id":1081633,"original_language":"en","original_title":"Downwinders:
+        Did the Government Kill John Wayne","overview":"Hear the tragic story of the
+        people who lived downwind from the nuclear test site in Nevada in the 50s
+        and 60s.  No one would listen to their plight until it was rumored that one
+        of the victims of the fallout was John Wayne, who was in the area shooting
+        the ill-fated film THE CONQUEROR for Howard Hughes.  We tell the story of
+        the people of the Southwest and beyond whose lives were changed forever after
+        the government decided to use them as \"human guinea pigs\" and also attempt
+        to find the answer to the question:  Did the government kill John Wayne?","popularity":0.001,"poster_path":null,"release_date":"","title":"Downwinders:
+        Did the Government Kill John Wayne","video":false,"vote_average":0.0,"vote_count":0},{"adult":false,"backdrop_path":null,"genre_ids":[99,27],"id":780766,"original_language":"en","original_title":"The
         John Wayne Gacy Murders: Life and Death in Chicago","overview":"Summaries  \"The
         John Wayne Gacy Murders: Life and Death in Chicago\", Focuses on serial killer
         John Wayne Gacy''s time in Chicago and includes information about Gacy''s
@@ -251,31 +287,8 @@ http_interactions:
         enforcement officers, and history experts, the film illustrates what the atmosphere
         was like in Chicago when Gacy was murdering and ultimately apprehended. Gacy''s
         time in prison as a celebrity serial killer is also explored in this groundbreaking
-        film by Chicago native filmmaker John Borowski.  —John Borowski","popularity":2.025,"poster_path":"/9Ph0W8fEb3ZGO9F8MgCVM6czTtj.jpg","release_date":"2020-08-01","title":"The
-        John Wayne Gacy Murders: Life and Death in Chicago","video":false,"vote_average":10.0,"vote_count":1},{"adult":false,"backdrop_path":"/qWoJ650jpJWp9veyfaPZu95u1AV.jpg","genre_ids":[99],"id":1150003,"original_language":"en","original_title":"Wayne
-        Couzens:  Killer in Plain Sight","overview":"Using interviews with expert
-        witnesses, detectives and members of law enforcement, reveals the true story
-        of Wayne Couzens, asks how he was able to hide from scrutiny for so long,
-        and considers the larger problem of misogyny in the police force.","popularity":0.84,"poster_path":"/o912jmJe41wFuQSVpiaRPojRlmD.jpg","release_date":"","title":"Wayne
-        Couzens:  Killer in Plain Sight","video":false,"vote_average":0.0,"vote_count":0},{"adult":false,"backdrop_path":null,"genre_ids":[99],"id":872864,"original_language":"en","original_title":"A
-        Turning of the Earth: John Ford, John Wayne and ''The Searchers''","overview":"Documentary
-        on the making of \"The Searchers\" (1956), starring John Wayne and directed
-        by John Ford, with outtakes, behind-the-scenes footage and interviews with
-        many of the surviving cast and crew.","popularity":1.383,"poster_path":"/atkZ8IrLjCMYSqbqz87YZrqHrr5.jpg","release_date":"1998-01-01","title":"A
-        Turning of the Earth: John Ford, John Wayne and ''The Searchers''","video":false,"vote_average":0.0,"vote_count":0},{"adult":false,"backdrop_path":null,"genre_ids":[],"id":1081633,"original_language":"en","original_title":"Downwinders:
-        Did the Government Kill John Wayne","overview":"Hear the tragic story of the
-        people who lived downwind from the nuclear test site in Nevada in the 50s
-        and 60s.  No one would listen to their plight until it was rumored that one
-        of the victims of the fallout was John Wayne, who was in the area shooting
-        the ill-fated film THE CONQUEROR for Howard Hughes.  We tell the story of
-        the people of the Southwest and beyond whose lives were changed forever after
-        the government decided to use them as \"human guinea pigs\" and also attempt
-        to find the answer to the question:  Did the government kill John Wayne?","popularity":0.6,"poster_path":null,"release_date":"","title":"Downwinders:
-        Did the Government Kill John Wayne","video":false,"vote_average":0.0,"vote_count":0},{"adult":false,"backdrop_path":null,"genre_ids":[35],"id":49301,"original_language":"en","original_title":"Je
-        T''Aime John Wayne","overview":"Belmonde lives in 1990s London as an iconic
-        , cool Frenchman modelled on the new wave cinema of the 1960s. Really he is
-        English and middle class – a fact that his family won''t let him forget!","popularity":1.326,"poster_path":"/t1pTaZ0PIYg0UUu3nAbeY5fs870.jpg","release_date":"2000-11-11","title":"Je
-        T''Aime John Wayne","video":false,"vote_average":5.9,"vote_count":19},{"adult":false,"backdrop_path":null,"genre_ids":[99],"id":284400,"original_language":"en","original_title":"JOHN
+        film by Chicago native filmmaker John Borowski.  —John Borowski","popularity":4.082,"poster_path":"/9Ph0W8fEb3ZGO9F8MgCVM6czTtj.jpg","release_date":"2020-08-01","title":"The
+        John Wayne Gacy Murders: Life and Death in Chicago","video":false,"vote_average":10.0,"vote_count":1},{"adult":false,"backdrop_path":null,"genre_ids":[99],"id":284400,"original_language":"en","original_title":"JOHN
         WAYNE - AMERICAN LEGEND","overview":"This installment in A\u0026amp;E''s Biography
         series follows the life of John Wayne from his troubled childhood to his peak
         as America''s biggest box-office draw to his later years as a controversial
@@ -286,84 +299,49 @@ http_interactions:
         archival stills, as well as seldom-seen early clips, this video also features
         interviews with fellow actors Charlton Heston and Ron Howard, as well as writer
         and scholar Garry Wills (author of a brilliant intellectual study of Wayne''s
-        work and life, John Wayne''s America).","popularity":0.6,"poster_path":null,"release_date":"1998-03-14","title":"JOHN
-        WAYNE - AMERICAN LEGEND","video":true,"vote_average":4.0,"vote_count":3},{"adult":false,"backdrop_path":null,"genre_ids":[99],"id":416218,"original_language":"en","original_title":"John
+        work and life, John Wayne''s America).","popularity":1.959,"poster_path":null,"release_date":"1998-03-14","title":"JOHN
+        WAYNE - AMERICAN LEGEND","video":true,"vote_average":4.0,"vote_count":3},{"adult":false,"backdrop_path":"/3LbvcW1uzH5UTXI42B7j2X9dXIX.jpg","genre_ids":[10402],"id":535540,"original_language":"fr","original_title":"The
+        Language of the Unknown: A Film About the Wayne Shorter Quartet","overview":"“The
+        Language of the Unknown” accompanies the great saxophonist and his band with
+        a concert on November 3, 2012 in the Salle Pleyel in Paris, and observes the
+        effect of the music on its creators, who are normally much too busy with creating
+        the new than to deal with music already played.","popularity":0.858,"poster_path":"/vrZzAa14Wt7YK4lZWASx56zdrBN.jpg","release_date":"2012-11-03","title":"The
+        Language of the Unknown: A Film About the Wayne Shorter Quartet","video":false,"vote_average":10.0,"vote_count":1},{"adult":false,"backdrop_path":null,"genre_ids":[99],"id":416218,"original_language":"en","original_title":"John
         Wayne on Film","overview":"A retrospective of the career of actor John Wayne,
-        showing clips from many of his most famous films.","popularity":1.148,"poster_path":null,"release_date":"2016-09-16","title":"John
+        showing clips from many of his most famous films.","popularity":1.931,"poster_path":null,"release_date":"2016-09-16","title":"John
         Wayne on Film","video":false,"vote_average":10.0,"vote_count":1},{"adult":false,"backdrop_path":null,"genre_ids":[99],"id":90959,"original_language":"en","original_title":"John
         Wayne Standing Tall","overview":"Profile of one of the world''s most popular
         motion picture stars, told through interviews with some of the artists who
         worked with him, family, friends, and excerpts from many of his films and
-        television appearances.","popularity":0.669,"poster_path":null,"release_date":"1989-03-01","title":"John
+        television appearances.","popularity":2.562,"poster_path":null,"release_date":"1989-03-01","title":"John
         Wayne Standing Tall","video":false,"vote_average":6.0,"vote_count":1},{"adult":false,"backdrop_path":"/gd8dLyWu9MF86uZZKTBZZusf8Ff.jpg","genre_ids":[],"id":652866,"original_language":"en","original_title":"Fivestar
         Training with Wayne Rooney: Dribbling","overview":"Train with Wayne Rooney
         and improve your soccer skills by completing workouts designed by the most
         accomplished soccer trainers in the world. Watch as Wayne and his team go
-        through drills from shooting to dribbling, ball control, passing and more.","popularity":0.6,"poster_path":"/9IZpOOhblCUYVZLz0QEjDWLVEYh.jpg","release_date":"2014-05-27","title":"Fivestar
+        through drills from shooting to dribbling, ball control, passing and more.","popularity":0.005,"poster_path":"/9IZpOOhblCUYVZLz0QEjDWLVEYh.jpg","release_date":"2014-05-27","title":"Fivestar
         Training with Wayne Rooney: Dribbling","video":true,"vote_average":0.0,"vote_count":0},{"adult":false,"backdrop_path":"/aKeqEd3keNaKLd3A5cK9OXYCXnX.jpg","genre_ids":[10402],"id":445950,"original_language":"en","original_title":"Kenny
         Wayne Shepherd: Guitar Center Sessions","overview":"Blues guitarist Kenny
         Wayne Shepherd performs \"Shotgun Blues\", \"Losing Game\", \"Blue on Black\",
-        and \"King Bee\".","popularity":1.414,"poster_path":"/8pAVHbYJ8zG6WJuPZD8qrUnQNvC.jpg","release_date":"2010-09-15","title":"Kenny
+        and \"King Bee\".","popularity":0.753,"poster_path":"/8pAVHbYJ8zG6WJuPZD8qrUnQNvC.jpg","release_date":"2010-09-15","title":"Kenny
         Wayne Shepherd: Guitar Center Sessions","video":true,"vote_average":0.0,"vote_count":0},{"adult":false,"backdrop_path":null,"genre_ids":[],"id":383204,"original_language":"en","original_title":"John
         Wayne Hated Horses","overview":"A father and his young son share a house,
         a yard and very different ideas about masculinity and appropriate uses of
         army toys. The father and son both assert themselves with action rather than
-        words.","popularity":1.172,"poster_path":"/zX35WHoARRuncLQ8Sjw4DOSO7CE.jpg","release_date":"2009-03-14","title":"John
-        Wayne Hated Horses","video":false,"vote_average":0.0,"vote_count":0},{"adult":false,"backdrop_path":null,"genre_ids":[],"id":607067,"original_language":"en","original_title":"Bruce
-        and Pepper Wayne Gacy''s Home Movies","overview":"Experimental short film
-        depicting the home movies of Bruce Wayne Gacy and Pepper Wayne Gacy, the children
-        of the notorious serial killer John Wayne Gacy.","popularity":0.6,"poster_path":null,"release_date":"1988-01-01","title":"Bruce
-        and Pepper Wayne Gacy''s Home Movies","video":false,"vote_average":0.0,"vote_count":0},{"adult":false,"backdrop_path":null,"genre_ids":[],"id":436531,"original_language":"en","original_title":"Guru
+        words.","popularity":2.995,"poster_path":"/zX35WHoARRuncLQ8Sjw4DOSO7CE.jpg","release_date":"2009-03-14","title":"John
+        Wayne Hated Horses","video":false,"vote_average":0.0,"vote_count":0},{"adult":false,"backdrop_path":"/1OAB8uZE0Bo9L7dzqvkQXUb4Jgc.jpg","genre_ids":[],"id":733747,"original_language":"en","original_title":"Tron
+        Wayne Gacy","overview":"A conversation about sex and death winds its way between
+        six college kids.","popularity":0.855,"poster_path":"/9hQ7197VLN4UR7Gg4TWAqIN5HYP.jpg","release_date":"2011-01-01","title":"Tron
+        Wayne Gacy","video":false,"vote_average":0.0,"vote_count":0},{"adult":false,"backdrop_path":"/qWoJ650jpJWp9veyfaPZu95u1AV.jpg","genre_ids":[99],"id":1150003,"original_language":"en","original_title":"Wayne
+        Couzens:  Killer in Plain Sight","overview":"Using interviews with expert
+        witnesses, detectives and members of law enforcement, reveals the true story
+        of Wayne Couzens, asks how he was able to hide from scrutiny for so long,
+        and considers the larger problem of misogyny in the police force.","popularity":2.136,"poster_path":"/o912jmJe41wFuQSVpiaRPojRlmD.jpg","release_date":"","title":"Wayne
+        Couzens:  Killer in Plain Sight","video":false,"vote_average":0.0,"vote_count":0},{"adult":false,"backdrop_path":null,"genre_ids":[],"id":436531,"original_language":"en","original_title":"Guru
         Wayne","overview":"Guru Wayne follows the fortunes of Dave, a frustrated Uni
         student, and Gary his dead-beat, drug dealing mate. In a moment of madness,
-        they dream up a brand new cult. To their utter amazement - it catches on!","popularity":0.621,"poster_path":"/wySEIfPyazxlLdUgLyBZ4vmRU9X.jpg","release_date":"2002-09-23","title":"Guru
+        they dream up a brand new cult. To their utter amazement - it catches on!","popularity":1.75,"poster_path":"/wySEIfPyazxlLdUgLyBZ4vmRU9X.jpg","release_date":"2002-09-23","title":"Guru
         Wayne","video":false,"vote_average":4.0,"vote_count":1},{"adult":false,"backdrop_path":null,"genre_ids":[10402],"id":681970,"original_language":"de","original_title":"Kenny
-        Wayne Shepherd – Leverkusener Jazztage 2019","overview":"","popularity":0.6,"poster_path":"/iTyC2RHL8y8hqzGanztQvj36EEc.jpg","release_date":"2019-11-25","title":"Kenny
-        Wayne Shepherd – Leverkusener Jazztage 2019","video":false,"vote_average":0.0,"vote_count":0},{"adult":false,"backdrop_path":null,"genre_ids":[],"id":623686,"original_language":"en","original_title":"The
-        Basics of Model Railroading with Wayne Wesolowski","overview":"Wayne dreams
-        he can build a small layout with a minimum of expenses and space. He gets
-        some helpful advice from his \"Good Sense.\"  There''s so much to consider...
-        time period, type of traffic, and scale. Wayne selects a 1950''s-era branch
-        line in HO. The Atlas track components cause the size to be 4''6\" x 3''8\".  L-girder
-        is perfect for the Marengo, Milwaukee \u0026 Northern. We need 1x1s, 1x2s,
-        1x3s, 1x4s, 2x2s, and a sheet of 1/2\" plywood.  \"Keep it simple\" is good
-        advice for a first-time layout. However, by dividing the layout into 4 blocks
-        we can run two trains.  Polyfoam is the base for the scenic landforms. Wayne
-        adds laytex paint, ground foam, and rocks. Artist''s acrylic Gloss Medium
-        forms the lake. All the structures get some weathering.  Wayne lists some
-        of the problem areas - couplers, track, and trucks - and shows you how to
-        make them work properly. Locomotives can also be a source of trouble if you
-        fail to maintain them.","popularity":0.6,"poster_path":"/sxzxSZ9oxOLkl7p9y14jzrCCOp.jpg","release_date":"1984-01-01","title":"The
-        Basics of Model Railroading with Wayne Wesolowski","video":true,"vote_average":0.0,"vote_count":0},{"adult":false,"backdrop_path":null,"genre_ids":[18],"id":760878,"original_language":"en","original_title":"Wayne
-        and Albert","overview":"When Wayne has to go and live with his grandfather
-        Albert, they both initially resent the arrangement. Hostilities soften when
-        they discover some common interests.","popularity":0.6,"poster_path":"/8vUHWvfJCoUiu7xpEbl5KoSkzv4.jpg","release_date":"1983-03-15","title":"Wayne
-        and Albert","video":false,"vote_average":0.0,"vote_count":0},{"adult":false,"backdrop_path":null,"genre_ids":[99],"id":625523,"original_language":"en","original_title":"Lil
-        Wayne: Bling","overview":"Releasing his first solo studio album at just the
-        age of 15, Lil Wayne has shot through the ranks of the hip-hop scene. Follow
-        the story of the man who deems himself as the heart and soul of music. This
-        is Lil Wayne.","popularity":0.885,"poster_path":"/oidEYEsnQobK7VJHTR4MEhVa5yh.jpg","release_date":"2018-11-24","title":"Lil
-        Wayne: Bling","video":false,"vote_average":0.0,"vote_count":0},{"adult":false,"backdrop_path":null,"genre_ids":[10402],"id":201071,"original_language":"en","original_title":"Fountains
-        of Wayne: No Better Place - Live in Chicago","overview":"Fountains Of Wayne
-        breeze into the Windy City with their warm, feel-good vibe, unleashing the
-        hooks and humor that have made them champions of power pop. For the band''s
-        first-ever live DVD, fans are treated to a career-defining set with punchy
-        performances of their hits including \"Stacy''s Mom,\" \"Sink To The Bottom\"
-        and \"Radiation Vibe.\"  Having perfected the sounds of summer buzz with tight
-        rhythms, carefree melodies and humor-laced lyrics, the indie pop quartet takes
-        the stage in prime form, knocking out favorite after favorite. This concert
-        was shot in a widescreen format and recorded in 5.1 Surround to provide an
-        electrifying home viewing experience. Next to actually attending a Fountains
-        show, as any fan will tell you, there''s No Better Place to see them. Bonus
-        features: all-new, never-before-seen acoustic performances of songs from their
-        2007 album, Traffic and Weather, and more.","popularity":0.842,"poster_path":null,"release_date":"2009-03-02","title":"Fountains
-        of Wayne: No Better Place - Live in Chicago","video":false,"vote_average":0.0,"vote_count":0},{"adult":false,"backdrop_path":null,"genre_ids":[99],"id":21899,"original_language":"en","original_title":"SportsCentury
-        Greatest Athletes: Wayne Gretzky","overview":"","popularity":0.6,"poster_path":"/82iOHtxU1mZMQYaTR6hg74zNNfH.jpg","release_date":"2000-11-10","title":"SportsCentury
-        Greatest Athletes: Wayne Gretzky","video":false,"vote_average":0.0,"vote_count":0},{"adult":false,"backdrop_path":null,"genre_ids":[],"id":779442,"original_language":"en","original_title":"THE
-        GREAT ONE: How The 1988 Wayne Gretzky Trade Is Still Evolving Today | NHL
-        Trade Trees","overview":"Steve \"Dangle\" Glynn of SportsNet (Canada) goes
-        over the trade tree that involved \"The Great One\" Wayne Gretzky.","popularity":0.6,"poster_path":null,"release_date":"","title":"THE
-        GREAT ONE: How The 1988 Wayne Gretzky Trade Is Still Evolving Today | NHL
-        Trade Trees","video":true,"vote_average":0.0,"vote_count":0}],"total_pages":6,"total_results":107}'
-  recorded_at: Wed, 14 Feb 2024 01:13:52 GMT
+        Wayne Shepherd – Leverkusener Jazztage 2019","overview":"","popularity":0.017,"poster_path":"/iTyC2RHL8y8hqzGanztQvj36EEc.jpg","release_date":"2019-11-25","title":"Kenny
+        Wayne Shepherd – Leverkusener Jazztage 2019","video":false,"vote_average":0.0,"vote_count":0}],"total_pages":6,"total_results":109}'
+  recorded_at: Tue, 10 Sep 2024 01:17:10 GMT
 recorded_with: VCR 6.1.0
