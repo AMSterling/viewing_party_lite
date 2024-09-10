@@ -156,15 +156,37 @@ Database:
    ```
 3. Install gem packages
    ```sh
-   rails db:{drop,create,migrate}
    bundle install
+   ```
+   ```sh
+   rails generate rspec:install
+   ```
+   ```sh
+   rails db:{drop,create,migrate}
+   ```
+   ```sh
    bundle exec figaro install
+   ```
+   ```sh
    bundle update
    ```
 4. Enter your API in `config/application.yml`
+
    ```js
    movie_api_key: 'ENTER YOUR API'
    ```
+5. To run the test suite:
+
+   ```sh
+   bundle exec rspec
+   ```
+
+6. Push to your preferred production server or in your terminal run
+   ```sh
+   rails server
+   ```
+   Then open [http://localhost:3000](http://localhost:3000) in your browser.
+
 _A full list of gems that will be installed can be found in the [gemfile][gemfile-url]._
 
 ---
